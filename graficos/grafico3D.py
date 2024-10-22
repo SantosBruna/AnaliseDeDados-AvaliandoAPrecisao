@@ -2,7 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
-df = pd.read_csv('../preparacao-dos-dados/posicoes1.csv')
+#df = pd.read_csv('../preparacao-dos-dados/posicoes1.csv')
+df = pd.read_csv('../preparacao-dos-dados/posicoes2.csv')
 
 # Exibir as primeiras linhas do DataFrame para verificar se foi lido corretamente
 print(df.head())
