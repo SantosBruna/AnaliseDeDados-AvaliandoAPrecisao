@@ -3,8 +3,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-#df = pd.read_csv('../preparacao-dos-dados/posicoes1.csv')
-df = pd.read_csv('../preparacao-dos-dados/posicoes2.csv')
+#df = pd.read_csv('../preparacao-dos-dados/dados - objeto parado - 16w - camera em movimento.csv')
+#df = pd.read_csv('../preparacao-dos-dados/dados - objeto em movimento - luz ambiente - camera parada.csv')
+df = pd.read_csv('../preparacao-dos-dados/dados - objeto parado - luz ambiente - camera em movimento.csv')
 
 # Exibir as primeiras linhas do DataFrame para verificar se foi lido corretamente
 #print(df.head())

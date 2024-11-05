@@ -2,8 +2,9 @@ import re
 import pandas as pd
 
 # Ler o arquivo de texto original
-#with open('dados - objeto parado - 16w - camera em movimento.txt', 'r') as file: #posicoes1
-with open('dados - objeto em movimento - luz ambiente - camera parada.txt', 'r') as file: #posicoes2
+with open('dados - objeto parado - 16w - camera em movimento.txt', 'r') as file: #posicoes1
+#with open('dados - objeto em movimento - luz ambiente - camera parada.txt', 'r') as file: #posicoes2
+#with open('dados - objeto parado - luz ambiente - camera em movimento.txt', 'r') as file:
     data = file.read()
 
 # Adicionar uma quebra de linha entre cada conjunto de dados para facilitar o processamento
@@ -72,6 +73,6 @@ else:
         })
 
         # Salvar o DataFrame em um arquivo CSV
-        df.to_csv('posicoes2.csv', index=False)
+        df.to_csv('dados - objeto parado - 16w - camera em movimento.csv', index=False)
 
         print("Arquivo CSV gerado com sucesso!")
