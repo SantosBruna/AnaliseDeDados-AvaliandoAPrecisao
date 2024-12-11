@@ -1,6 +1,6 @@
 # Nome do arquivo de entrada e saída
-input_file = 'dados - objeto parado - luz ambiente - camera em movimento.txt'
-output_file = 'dados - objeto parado - luz ambiente - camera em movimento.txt'
+input_file = 'dados - objeto em movimento-16W-camera parada.txt'
+output_file = 'dados - objeto em movimento-16W-camera parada.txt'
 
 # Ler o arquivo de entrada
 with open(input_file, 'r') as file:

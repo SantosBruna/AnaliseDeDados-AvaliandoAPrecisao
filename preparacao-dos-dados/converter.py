@@ -2,17 +2,18 @@ import re
 import pandas as pd
 
 # Ler o arquivo de texto original
-with open('dados - objeto parado - 16w - camera em movimento.txt', 'r') as file: #posicoes1
+#with open('dados - objeto parado - 16w - camera em movimento.txt', 'r') as file: #posicoes1
 #with open('dados - objeto em movimento - luz ambiente - camera parada.txt', 'r') as file: #posicoes2
 #with open('dados - objeto parado - luz ambiente - camera em movimento.txt', 'r') as file:
+with open('dados - objeto em movimento-16W-camera parada.txt', 'r') as file:
     data = file.read()
 
 # Adicionar uma quebra de linha entre cada conjunto de dados para facilitar o processamento
 data = re.sub(r'(Posicao do objeto Real no Unity: X=-?\d+,\d+, Y=-?\d+,\d+, Z=-?\d+,\d+)', r'\1\n', data)
 
 # Usar expressões regulares para extrair as posições virtuais e reais separadamente
-virtual_pattern = r'Posicao do objeto Virtual 1: X=(-?\d+,\d+), Y=(-?\d+,\d+), Z=(-?\d+,\d+)'
-real_pattern = r'Posicao do objeto 1 Real no Unity: X=(-?\d+,\d+), Y=(-?\d+,\d+), Z=(-?\d+,\d+)'
+virtual_pattern = r'Posicao do objeto Virtual: X=(-?\d+,\d+), Y=(-?\d+,\d+), Z=(-?\d+,\d+)'
+real_pattern = r'Posicao do objeto Real no Unity: X=(-?\d+,\d+), Y=(-?\d+,\d+), Z=(-?\d+,\d+)'
 
 virtual_matches = re.findall(virtual_pattern, data)
 real_matches = re.findall(real_pattern, data)
@@ -73,6 +74,6 @@ else:
         })
 
         # Salvar o DataFrame em um arquivo CSV
-        df.to_csv('dados - objeto parado - 16w - camera em movimento.csv', index=False)
+        df.to_csv('dados - objeto em movimento-16W-camera parada.csv', index=False)
 
         print("Arquivo CSV gerado com sucesso!")

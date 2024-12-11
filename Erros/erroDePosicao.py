@@ -3,12 +3,13 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
+#distância euclidiana
 def calcular_erro_posicao(real_x, real_y, real_z, virtual_x, virtual_y, virtual_z):
     return math.sqrt((real_x - virtual_x)**2 + (real_y - virtual_y)**2 + (real_z - virtual_z)**2)
 
-
-#df = pd.read_csv('../preparacao-dos-dados/dados - objeto parado - 16w - camera em movimento.csv')
-df = pd.read_csv('../preparacao-dos-dados/dados - objeto em movimento - luz ambiente - camera parada.csv')
+#df = pd.read_csv('../preparacao-dos-dados/dados - objeto em movimento-16W-camera parada.csv')
+df = pd.read_csv('../preparacao-dos-dados/dados - objeto parado - 16w - camera em movimento.csv')
+#df = pd.read_csv('../preparacao-dos-dados/dados - objeto em movimento - luz ambiente - camera parada.csv')
 #df = pd.read_csv('../preparacao-dos-dados/dados - objeto parado - luz ambiente - camera em movimento.csv')
 
 # Cálculo do erro de posição para cada linha do DataFrame

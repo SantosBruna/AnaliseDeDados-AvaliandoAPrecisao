@@ -1,0 +1,1124 @@
+Posicao do objeto Real no Unity: X=-0,38938, Y=1,094794, Z=3,564714
+Posicao do objeto Virtual: X=-0,07345355, Y=-0,03672472, Z=0,2934927
+Posicao do objeto Real no Unity: X=-0,3778474, Y=1,110388, Z=3,566585
+Posicao do objeto Virtual: X=-0,07660079, Y=-0,03749701, Z=0,2937826
+Posicao do objeto Real no Unity: X=-0,3646225, Y=1,078525, Z=3,568979
+Posicao do objeto Virtual: X=-0,07824659, Y=-0,03718382, Z=0,2918022
+Posicao do objeto Real no Unity: X=-0,432523, Y=1,112824, Z=3,544852
+Posicao do objeto Virtual: X=-0,07953733, Y=-0,03834053, Z=0,2900332
+Posicao do objeto Real no Unity: X=-0,4129492, Y=1,096538, Z=3,55186
+Posicao do objeto Virtual: X=-0,07955623, Y=-0,03833674, Z=0,2903373
+Posicao do objeto Real no Unity: X=-0,2777392, Y=1,152076, Z=3,584302
+Posicao do objeto Virtual: X=-0,08013475, Y=-0,03855516, Z=0,2949263
+Posicao do objeto Real no Unity: X=-0,2534048, Y=1,144374, Z=3,590663
+Posicao do objeto Virtual: X=-0,0794718, Y=-0,04018651, Z=0,2959698
+Posicao do objeto Real no Unity: X=-0,1974706, Y=1,081143, Z=3,606082
+Posicao do objeto Virtual: X=-0,07420045, Y=-0,03511837, Z=0,2930429
+Posicao do objeto Real no Unity: X=-0,1750139, Y=1,086697, Z=3,610187
+Posicao do objeto Virtual: X=-0,0766705, Y=-0,03530212, Z=0,2931179
+Posicao do objeto Real no Unity: X=-0,2629992, Y=1,144917, Z=3,588844
+Posicao do objeto Virtual: X=-0,07683355, Y=-0,03642639, Z=0,2940017
+Posicao do objeto Real no Unity: X=-0,2574884, Y=1,140299, Z=3,589185
+Posicao do objeto Virtual: X=-0,07808769, Y=-0,03884416, Z=0,2943749
+Posicao do objeto Real no Unity: X=-0,2469938, Y=1,094253, Z=3,594935
+Posicao do objeto Virtual: X=-0,07922697, Y=-0,04046774, Z=0,2941028
+Posicao do objeto Real no Unity: X=-0,2299201, Y=1,100339, Z=3,597471
+Posicao do objeto Virtual: X=-0,07930019, Y=-0,03970288, Z=0,2938929
+Posicao do objeto Real no Unity: X=-0,2371299, Y=1,11915, Z=3,593407
+Posicao do objeto Virtual: X=-0,07968557, Y=-0,04008618, Z=0,2938093
+Posicao do objeto Real no Unity: X=-0,3124938, Y=1,126333, Z=3,577461
+Posicao do objeto Virtual: X=-0,07790768, Y=-0,03821185, Z=0,2928841
+Posicao do objeto Real no Unity: X=-0,2956393, Y=1,139626, Z=3,579056
+Posicao do objeto Virtual: X=-0,0779627, Y=-0,03920789, Z=0,2930353
+Posicao do objeto Real no Unity: X=-0,2886892, Y=1,11604, Z=3,583386
+Posicao do objeto Virtual: X=-0,07898259, Y=-0,04002402, Z=0,2929587
+Posicao do objeto Real no Unity: X=-0,2243704, Y=1,084994, Z=3,598436
+Posicao do objeto Virtual: X=-0,07844424, Y=-0,04064701, Z=0,2929746
+Posicao do objeto Real no Unity: X=-0,2375153, Y=1,100367, Z=3,596465
+Posicao do objeto Virtual: X=-0,07834876, Y=-0,04065442, Z=0,2940222
+Posicao do objeto Real no Unity: X=-0,2362871, Y=1,088112, Z=3,593715
+Posicao do objeto Virtual: X=-0,07849926, Y=-0,04260042, Z=0,2923658
+Posicao do objeto Real no Unity: X=-0,2772094, Y=1,083407, Z=3,584995
+Posicao do objeto Virtual: X=-0,07840157, Y=-0,04308138, Z=0,2917978
+Posicao do objeto Real no Unity: X=-0,3185136, Y=1,105103, Z=3,576032
+Posicao do objeto Virtual: X=-0,07767665, Y=-0,0424416, Z=0,2928488
+Posicao do objeto Real no Unity: X=-0,3052962, Y=1,099873, Z=3,580333
+Posicao do objeto Virtual: X=-0,07699001, Y=-0,0420258, Z=0,2932695
+Posicao do objeto Real no Unity: X=-0,2655303, Y=1,131996, Z=3,586444
+Posicao do objeto Virtual: X=-0,07640088, Y=-0,04256558, Z=0,2945554
+Posicao do objeto Real no Unity: X=-0,2433609, Y=1,077436, Z=3,595803
+Posicao do objeto Virtual: X=-0,07733679, Y=-0,04293003, Z=0,2938254
+Posicao do objeto Real no Unity: X=-0,2203557, Y=1,079874, Z=3,599406
+Posicao do objeto Virtual: X=-0,07645738, Y=-0,04382437, Z=0,2938628
+Posicao do objeto Real no Unity: X=-0,2024083, Y=1,066138, Z=3,603299
+Posicao do objeto Virtual: X=-0,07719719, Y=-0,0446092, Z=0,2935381
+Posicao do objeto Real no Unity: X=-0,2183975, Y=1,049187, Z=3,602762
+Posicao do objeto Virtual: X=-0,07697642, Y=-0,04390849, Z=0,2934994
+Posicao do objeto Real no Unity: X=-0,2015916, Y=1,042032, Z=3,605668
+Posicao do objeto Virtual: X=-0,07636625, Y=-0,04268102, Z=0,2928333
+Posicao do objeto Real no Unity: X=-0,2163227, Y=1,078655, Z=3,600399
+Posicao do objeto Virtual: X=-0,07639635, Y=-0,04375932, Z=0,2937689
+Posicao do objeto Real no Unity: X=-0,1990096, Y=1,060751, Z=3,604765
+Posicao do objeto Virtual: X=-0,07663369, Y=-0,04392838, Z=0,2934796
+Posicao do objeto Real no Unity: X=-0,2254949, Y=1,06725, Z=3,600686
+Posicao do objeto Virtual: X=-0,07618904, Y=-0,0436892, Z=0,2941071
+Posicao do objeto Real no Unity: X=-0,1921911, Y=1,055916, Z=3,607225
+Posicao do objeto Virtual: X=-0,07575575, Y=-0,04349098, Z=0,2937732
+Posicao do objeto Real no Unity: X=-0,2100734, Y=1,041476, Z=3,604681
+Posicao do objeto Virtual: X=-0,07588828, Y=-0,04295236, Z=0,2929296
+Posicao do objeto Real no Unity: X=-0,2483786, Y=1,093488, Z=3,594193
+Posicao do objeto Virtual: X=-0,07506269, Y=-0,0427702, Z=0,2944711
+Posicao do objeto Real no Unity: X=-0,244581, Y=1,07825, Z=3,595307
+Posicao do objeto Virtual: X=-0,07567543, Y=-0,04256716, Z=0,2936078
+Posicao do objeto Real no Unity: X=-0,2463447, Y=1,099563, Z=3,596231
+Posicao do objeto Virtual: X=-0,07529145, Y=-0,04286169, Z=0,2961802
+Posicao do objeto Real no Unity: X=-0,2391968, Y=1,08575, Z=3,596199
+Posicao do objeto Virtual: X=-0,07503617, Y=-0,04234423, Z=0,2942824
+Posicao do objeto Real no Unity: X=-0,2473581, Y=1,084653, Z=3,594405
+Posicao do objeto Virtual: X=-0,07507318, Y=-0,0417921, Z=0,2938495
+Posicao do objeto Real no Unity: X=-0,2278623, Y=1,088384, Z=3,597838
+Posicao do objeto Virtual: X=-0,07532668, Y=-0,04208899, Z=0,294062
+Posicao do objeto Real no Unity: X=-0,2199739, Y=1,054789, Z=3,600055
+Posicao do objeto Virtual: X=-0,07543021, Y=-0,04169589, Z=0,2923009
+Posicao do objeto Real no Unity: X=-0,2135102, Y=1,083941, Z=3,601819
+Posicao do objeto Virtual: X=-0,07562643, Y=-0,0418738, Z=0,2941771
+Posicao do objeto Real no Unity: X=-0,1946098, Y=1,058522, Z=3,607495
+Posicao do objeto Virtual: X=-0,07566351, Y=-0,04119148, Z=0,2936503
+Posicao do objeto Real no Unity: X=-0,2243219, Y=1,069046, Z=3,599716
+Posicao do objeto Virtual: X=-0,07515687, Y=-0,0395908, Z=0,2923508
+Posicao do objeto Real no Unity: X=-0,2341545, Y=1,099262, Z=3,597885
+Posicao do objeto Virtual: X=-0,07517534, Y=-0,03900524, Z=0,2944201
+Posicao do objeto Real no Unity: X=-0,238212, Y=1,110006, Z=3,593425
+Posicao do objeto Virtual: X=-0,07560492, Y=-0,03963396, Z=0,2932019
+Posicao do objeto Real no Unity: X=-0,2484507, Y=1,079329, Z=3,593097
+Posicao do objeto Virtual: X=-0,07515615, Y=-0,03933921, Z=0,2921894
+Posicao do objeto Real no Unity: X=-0,2181455, Y=1,091785, Z=3,598798
+Posicao do objeto Virtual: X=-0,07464078, Y=-0,03961183, Z=0,2936065
+Posicao do objeto Real no Unity: X=-0,2685687, Y=1,106976, Z=3,588022
+Posicao do objeto Virtual: X=-0,0751465, Y=-0,04017579, Z=0,2934864
+Posicao do objeto Real no Unity: X=-0,2657784, Y=1,093827, Z=3,589012
+Posicao do objeto Virtual: X=-0,07415992, Y=-0,03954984, Z=0,292906
+Posicao do objeto Real no Unity: X=-0,216546, Y=1,079395, Z=3,598104
+Posicao do objeto Virtual: X=-0,07400015, Y=-0,03926694, Z=0,2918692
+Posicao do objeto Real no Unity: X=-0,2268848, Y=1,073054, Z=3,596081
+Posicao do objeto Virtual: X=-0,07458943, Y=-0,03935991, Z=0,2913469
+Posicao do objeto Real no Unity: X=-0,2528931, Y=1,080052, Z=3,592553
+Posicao do objeto Virtual: X=-0,07417572, Y=-0,03893892, Z=0,2924502
+Posicao do objeto Real no Unity: X=-0,2199978, Y=1,106743, Z=3,597759
+Posicao do objeto Virtual: X=-0,07393467, Y=-0,04022056, Z=0,2941078
+Posicao do objeto Real no Unity: X=-0,219031, Y=1,074582, Z=3,597871
+Posicao do objeto Virtual: X=-0,07329977, Y=-0,03946832, Z=0,2916789
+Posicao do objeto Real no Unity: X=-0,2315987, Y=1,078364, Z=3,595581
+Posicao do objeto Virtual: X=-0,07224923, Y=-0,03917591, Z=0,2919672
+Posicao do objeto Real no Unity: X=-0,2066352, Y=1,091381, Z=3,601107
+Posicao do objeto Virtual: X=-0,07263824, Y=-0,03972715, Z=0,2936828
+Posicao do objeto Real no Unity: X=-0,2056262, Y=1,079322, Z=3,598487
+Posicao do objeto Virtual: X=-0,07272443, Y=-0,03991977, Z=0,2913983
+Posicao do objeto Real no Unity: X=-0,1984686, Y=1,077472, Z=3,599773
+Posicao do objeto Virtual: X=-0,0717501, Y=-0,03950511, Z=0,2910876
+Posicao do objeto Real no Unity: X=-0,2094066, Y=1,081342, Z=3,599526
+Posicao do objeto Virtual: X=-0,07265085, Y=-0,03963627, Z=0,2920697
+Posicao do objeto Real no Unity: X=-0,2028493, Y=1,0931, Z=3,598742
+Posicao do objeto Virtual: X=-0,07180566, Y=-0,03834398, Z=0,2911556
+Posicao do objeto Real no Unity: X=-0,211567, Y=1,10821, Z=3,597546
+Posicao do objeto Virtual: X=-0,0734508, Y=-0,03935776, Z=0,2925134
+Posicao do objeto Real no Unity: X=-0,2050442, Y=1,083307, Z=3,598118
+Posicao do objeto Virtual: X=-0,07256213, Y=-0,03969524, Z=0,2910615
+Posicao do objeto Real no Unity: X=-0,203328, Y=1,080492, Z=3,598314
+Posicao do objeto Virtual: X=-0,07261634, Y=-0,04012084, Z=0,2906408
+Posicao do objeto Real no Unity: X=-0,1770384, Y=1,071841, Z=3,605341
+Posicao do objeto Virtual: X=-0,07431674, Y=-0,04048118, Z=0,2912685
+Posicao do objeto Real no Unity: X=-0,1769353, Y=1,077527, Z=3,603271
+Posicao do objeto Virtual: X=-0,07503167, Y=-0,04011735, Z=0,2902473
+Posicao do objeto Real no Unity: X=-0,2067812, Y=1,083104, Z=3,598311
+Posicao do objeto Virtual: X=-0,0751974, Y=-0,04017558, Z=0,290567
+Posicao do objeto Real no Unity: X=-0,1725249, Y=1,081883, Z=3,604796
+Posicao do objeto Virtual: X=-0,07548779, Y=-0,03963785, Z=0,290872
+Posicao do objeto Real no Unity: X=-0,1924164, Y=1,077879, Z=3,599262
+Posicao do objeto Virtual: X=-0,0755612, Y=-0,04018809, Z=0,2897419
+Posicao do objeto Real no Unity: X=-0,2227442, Y=1,088938, Z=3,593754
+Posicao do objeto Virtual: X=-0,07556468, Y=-0,0391806, Z=0,2896982
+Posicao do objeto Real no Unity: X=-0,1999025, Y=1,096298, Z=3,598111
+Posicao do objeto Virtual: X=-0,07494634, Y=-0,03758998, Z=0,2897457
+Posicao do objeto Real no Unity: X=-0,1985238, Y=1,120932, Z=3,596723
+Posicao do objeto Virtual: X=-0,07591951, Y=-0,03786299, Z=0,2904596
+Posicao do objeto Real no Unity: X=-0,2119815, Y=1,114608, Z=3,594271
+Posicao do objeto Virtual: X=-0,07588151, Y=-0,03719981, Z=0,2898172
+Posicao do objeto Real no Unity: X=-0,2529507, Y=1,149943, Z=3,582328
+Posicao do objeto Virtual: X=-0,07811701, Y=-0,03718202, Z=0,2896969
+Posicao do objeto Real no Unity: X=-0,2515236, Y=1,145194, Z=3,582342
+Posicao do objeto Virtual: X=-0,07915699, Y=-0,03736325, Z=0,289106
+Posicao do objeto Real no Unity: X=-0,2450821, Y=1,143004, Z=3,583983
+Posicao do objeto Virtual: X=-0,08035344, Y=-0,03757862, Z=0,2891979
+Posicao do objeto Real no Unity: X=-0,2714824, Y=1,153137, Z=3,577991
+Posicao do objeto Virtual: X=-0,08220518, Y=-0,03756465, Z=0,2892661
+Posicao do objeto Real no Unity: X=-0,3438655, Y=1,180409, Z=3,557555
+Posicao do objeto Virtual: X=-0,08467209, Y=-0,03760419, Z=0,2880902
+Posicao do objeto Real no Unity: X=-0,3280617, Y=1,182114, Z=3,562225
+Posicao do objeto Virtual: X=-0,08717579, Y=-0,0385682, Z=0,2892405
+Posicao do objeto Real no Unity: X=-0,3631111, Y=1,208187, Z=3,551717
+Posicao do objeto Virtual: X=-0,09044176, Y=-0,04009373, Z=0,2900296
+Posicao do objeto Real no Unity: X=-0,3964966, Y=1,215049, Z=3,542633
+Posicao do objeto Virtual: X=-0,09340423, Y=-0,04122537, Z=0,2900351
+Posicao do objeto Real no Unity: X=-0,4451784, Y=1,211643, Z=3,527066
+Posicao do objeto Virtual: X=-0,09897995, Y=-0,04501978, Z=0,288525
+Posicao do objeto Real no Unity: X=-0,5137669, Y=1,247642, Z=3,504681
+Posicao do objeto Virtual: X=-0,1003563, Y=-0,04628002, Z=0,2893542
+Posicao do objeto Real no Unity: X=-0,5191013, Y=1,236253, Z=3,50464
+Posicao do objeto Virtual: X=-0,1019859, Y=-0,04814347, Z=0,2896818
+Posicao do objeto Real no Unity: X=-0,5183538, Y=1,219407, Z=3,50519
+Posicao do objeto Virtual: X=-0,1040676, Y=-0,04926224, Z=0,2887005
+Posicao do objeto Real no Unity: X=-0,5514455, Y=1,238978, Z=3,494822
+Posicao do objeto Virtual: X=-0,105873, Y=-0,05020424, Z=0,2896818
+Posicao do objeto Real no Unity: X=-0,5212815, Y=1,214937, Z=3,504023
+Posicao do objeto Virtual: X=-0,1071293, Y=-0,0508801, Z=0,2882776
+Posicao do objeto Real no Unity: X=-0,5495037, Y=1,213274, Z=3,496547
+Posicao do objeto Virtual: X=-0,1076129, Y=-0,0510183, Z=0,2884234
+Posicao do objeto Real no Unity: X=-0,5068645, Y=1,206935, Z=3,509969
+Posicao do objeto Virtual: X=-0,1080117, Y=-0,05050674, Z=0,2886611
+Posicao do objeto Real no Unity: X=-0,5840583, Y=1,233702, Z=3,486047
+Posicao do objeto Virtual: X=-0,1139529, Y=-0,05408522, Z=0,2899166
+Posicao do objeto Real no Unity: X=-0,6258136, Y=1,244273, Z=3,47117
+Posicao do objeto Virtual: X=-0,1182767, Y=-0,05695455, Z=0,2898717
+Posicao do objeto Real no Unity: X=-0,6760655, Y=1,257488, Z=3,452824
+Posicao do objeto Virtual: X=-0,1185197, Y=-0,05820829, Z=0,2902187
+Posicao do objeto Real no Unity: X=-0,7022682, Y=1,238375, Z=3,444378
+Posicao do objeto Virtual: X=-0,121994, Y=-0,06142248, Z=0,2893449
+Posicao do objeto Real no Unity: X=-0,7256522, Y=1,268508, Z=3,43629
+Posicao do objeto Virtual: X=-0,1236433, Y=-0,06280924, Z=0,2919697
+Posicao do objeto Real no Unity: X=-0,7885985, Y=1,25502, Z=3,415322
+Posicao do objeto Virtual: X=-0,1268572, Y=-0,06514914, Z=0,2919886
+Posicao do objeto Real no Unity: X=-0,76521, Y=1,270593, Z=3,424491
+Posicao do objeto Virtual: X=-0,1282514, Y=-0,06605924, Z=0,2934924
+Posicao do objeto Real no Unity: X=-0,7652375, Y=1,252322, Z=3,421952
+Posicao do objeto Virtual: X=-0,1308292, Y=-0,06828574, Z=0,2908522
+Posicao do objeto Real no Unity: X=-0,7353419, Y=1,215488, Z=3,434713
+Posicao do objeto Virtual: X=-0,1300799, Y=-0,06756981, Z=0,2890387
+Posicao do objeto Real no Unity: X=-0,8074129, Y=1,219835, Z=3,403831
+Posicao do objeto Virtual: X=-0,1289015, Y=-0,06656005, Z=0,2870455
+Posicao do objeto Real no Unity: X=-0,7940779, Y=1,213291, Z=3,409527
+Posicao do objeto Virtual: X=-0,1283002, Y=-0,06652848, Z=0,2869886
+Posicao do objeto Real no Unity: X=-0,7461414, Y=1,220739, Z=3,429129
+Posicao do objeto Virtual: X=-0,1294129, Y=-0,06657436, Z=0,2882648
+Posicao do objeto Real no Unity: X=-0,7684276, Y=1,222781, Z=3,419614
+Posicao do objeto Virtual: X=-0,1293021, Y=-0,06666882, Z=0,2877052
+Posicao do objeto Real no Unity: X=-0,7810964, Y=1,219096, Z=3,414827
+Posicao do objeto Virtual: X=-0,1283597, Y=-0,06614003, Z=0,2873725
+Posicao do objeto Real no Unity: X=-0,7824918, Y=1,2208, Z=3,415113
+Posicao do objeto Virtual: X=-0,1277075, Y=-0,06608812, Z=0,2880532
+Posicao do objeto Real no Unity: X=-0,7771692, Y=1,218711, Z=3,418438
+Posicao do objeto Virtual: X=-0,1268543, Y=-0,06512757, Z=0,2884792
+Posicao do objeto Real no Unity: X=-0,7832199, Y=1,240179, Z=3,411646
+Posicao do objeto Virtual: X=-0,1251838, Y=-0,06462598, Z=0,2878634
+Posicao do objeto Real no Unity: X=-0,7740766, Y=1,232651, Z=3,416416
+Posicao do objeto Virtual: X=-0,1254955, Y=-0,06482524, Z=0,288021
+Posicao do objeto Real no Unity: X=-0,764211, Y=1,226091, Z=3,420533
+Posicao do objeto Virtual: X=-0,1253313, Y=-0,0649769, Z=0,2878709
+Posicao do objeto Real no Unity: X=-0,7889125, Y=1,223448, Z=3,411078
+Posicao do objeto Virtual: X=-0,1246852, Y=-0,06431172, Z=0,2874731
+Posicao do objeto Real no Unity: X=-0,7623975, Y=1,235943, Z=3,419794
+Posicao do objeto Virtual: X=-0,1254743, Y=-0,06553513, Z=0,2880386
+Posicao do objeto Real no Unity: X=-0,7504693, Y=1,210373, Z=3,426232
+Posicao do objeto Virtual: X=-0,1231907, Y=-0,06433105, Z=0,2873836
+Posicao do objeto Real no Unity: X=-0,7372299, Y=1,216255, Z=3,429322
+Posicao do objeto Virtual: X=-0,1232327, Y=-0,06473323, Z=0,2870827
+Posicao do objeto Real no Unity: X=-0,8107615, Y=1,268264, Z=3,403969
+Posicao do objeto Virtual: X=-0,1225582, Y=-0,06381707, Z=0,2919792
+Posicao do objeto Real no Unity: X=-0,7428113, Y=1,255088, Z=3,431139
+Posicao do objeto Virtual: X=-0,1213497, Y=-0,06257565, Z=0,2916707
+Posicao do objeto Real no Unity: X=-0,7238829, Y=1,258018, Z=3,439875
+Posicao do objeto Virtual: X=-0,1196452, Y=-0,06113881, Z=0,2928168
+Posicao do objeto Real no Unity: X=-0,6832741, Y=1,238567, Z=3,451008
+Posicao do objeto Virtual: X=-0,1153533, Y=-0,05802552, Z=0,2896085
+Posicao do objeto Real no Unity: X=-0,7000213, Y=1,267171, Z=3,444156
+Posicao do objeto Virtual: X=-0,1140853, Y=-0,05738373, Z=0,2913404
+Posicao do objeto Real no Unity: X=-0,6767874, Y=1,257832, Z=3,453478
+Posicao do objeto Virtual: X=-0,1118723, Y=-0,0554977, Z=0,2910832
+Posicao do objeto Real no Unity: X=-0,6726832, Y=1,25685, Z=3,454494
+Posicao do objeto Virtual: X=-0,1096435, Y=-0,05328106, Z=0,2904454
+Posicao do objeto Real no Unity: X=-0,6575269, Y=1,248073, Z=3,459699
+Posicao do objeto Virtual: X=-0,1076996, Y=-0,05065052, Z=0,2892219
+Posicao do objeto Real no Unity: X=-0,6176351, Y=1,275131, Z=3,471227
+Posicao do objeto Virtual: X=-0,09977168, Y=-0,04648572, Z=0,2907306
+Posicao do objeto Real no Unity: X=-0,5645474, Y=1,273746, Z=3,487624
+Posicao do objeto Virtual: X=-0,09429044, Y=-0,04234863, Z=0,2900664
+Posicao do objeto Real no Unity: X=-0,5418756, Y=1,285909, Z=3,493341
+Posicao do objeto Virtual: X=-0,09113872, Y=-0,04030713, Z=0,2904714
+Posicao do objeto Real no Unity: X=-0,4863682, Y=1,264443, Z=3,508135
+Posicao do objeto Virtual: X=-0,08783829, Y=-0,03825156, Z=0,2878613
+Posicao do objeto Real no Unity: X=-0,4631126, Y=1,282943, Z=3,512841
+Posicao do objeto Virtual: X=-0,08612639, Y=-0,03697015, Z=0,2885219
+Posicao do objeto Real no Unity: X=-0,4105552, Y=1,275671, Z=3,529512
+Posicao do objeto Virtual: X=-0,07817662, Y=-0,03565773, Z=0,2900575
+Posicao do objeto Real no Unity: X=-0,31995, Y=1,25187, Z=3,553065
+Posicao do objeto Virtual: X=-0,07458407, Y=-0,03525633, Z=0,289732
+Posicao do objeto Real no Unity: X=-0,2370246, Y=1,182811, Z=3,576161
+Posicao do objeto Virtual: X=-0,06517437, Y=-0,0346307, Z=0,2883681
+Posicao do objeto Real no Unity: X=-0,1953185, Y=1,150774, Z=3,586148
+Posicao do objeto Virtual: X=-0,06175181, Y=-0,03412198, Z=0,287084
+Posicao do objeto Real no Unity: X=-0,1081948, Y=1,136846, Z=3,601214
+Posicao do objeto Virtual: X=-0,05652341, Y=-0,03462526, Z=0,2866399
+Posicao do objeto Real no Unity: X=0,008191586, Y=1,073282, Z=3,625446
+Posicao do objeto Virtual: X=-0,04929206, Y=-0,03193969, Z=0,2862477
+Posicao do objeto Real no Unity: X=0,0230996, Y=1,100242, Z=3,62728
+Posicao do objeto Virtual: X=-0,04740074, Y=-0,03179091, Z=0,2881472
+Posicao do objeto Real no Unity: X=0,08950824, Y=1,072515, Z=3,639814
+Posicao do objeto Virtual: X=-0,04130119, Y=-0,03026865, Z=0,289431
+Posicao do objeto Real no Unity: X=0,1546483, Y=1,041042, Z=3,648302
+Posicao do objeto Virtual: X=-0,03400299, Y=-0,02961421, Z=0,2880815
+Posicao do objeto Real no Unity: X=0,2028069, Y=1,010988, Z=3,656082
+Posicao do objeto Virtual: X=-0,0304825, Y=-0,02865277, Z=0,288183
+Posicao do objeto Real no Unity: X=0,1883628, Y=1,070758, Z=3,656222
+Posicao do objeto Virtual: X=-0,01586744, Y=-0,02530879, Z=0,2899141
+Posicao do objeto Real no Unity: X=0,2828679, Y=1,044247, Z=3,663699
+Posicao do objeto Virtual: X=-0,008858383, Y=-0,02369349, Z=0,2882625
+Posicao do objeto Real no Unity: X=0,3692417, Y=1,007722, Z=3,668323
+Posicao do objeto Virtual: X=-0,001815736, Y=-0,02085944, Z=0,285531
+Posicao do objeto Real no Unity: X=0,417255, Y=1,000994, Z=3,673254
+Posicao do objeto Virtual: X=0,00269933, Y=-0,01886815, Z=0,2865274
+Posicao do objeto Real no Unity: X=0,4357275, Y=0,9909874, Z=3,672318
+Posicao do objeto Virtual: X=0,005050361, Y=-0,0169856, Z=0,2846389
+Posicao do objeto Real no Unity: X=0,4928069, Y=0,9963008, Z=3,67223
+Posicao do objeto Virtual: X=0,008539781, Y=-0,01662049, Z=0,2853956
+Posicao do objeto Real no Unity: X=0,4958465, Y=0,9888873, Z=3,674672
+Posicao do objeto Virtual: X=0,01332334, Y=-0,0147292, Z=0,2849388
+Posicao do objeto Real no Unity: X=0,5083067, Y=1,001089, Z=3,672381
+Posicao do objeto Virtual: X=0,01626845, Y=-0,01402369, Z=0,284353
+Posicao do objeto Real no Unity: X=0,5507095, Y=0,9765177, Z=3,674961
+Posicao do objeto Virtual: X=0,01895176, Y=-0,01289296, Z=0,2843146
+Posicao do objeto Real no Unity: X=0,6090651, Y=1,065429, Z=3,675792
+Posicao do objeto Virtual: X=0,02453358, Y=-0,009264201, Z=0,2915282
+Posicao do objeto Real no Unity: X=0,5660291, Y=1,130998, Z=3,672691
+Posicao do objeto Virtual: X=0,02521911, Y=-0,008250386, Z=0,294198
+Posicao do objeto Real no Unity: X=0,5389574, Y=1,13416, Z=3,669824
+Posicao do objeto Virtual: X=0,02509367, Y=-0,008342564, Z=0,2917945
+Posicao do objeto Real no Unity: X=0,4876382, Y=1,224091, Z=3,663311
+Posicao do objeto Virtual: X=0,02612416, Y=-0,009152859, Z=0,2974908
+Posicao do objeto Real no Unity: X=0,4994878, Y=1,201772, Z=3,664929
+Posicao do objeto Virtual: X=0,02807538, Y=-0,007742465, Z=0,2951983
+Posicao do objeto Real no Unity: X=0,5205982, Y=1,189245, Z=3,665495
+Posicao do objeto Virtual: X=0,0296802, Y=-0,008188784, Z=0,2945685
+Posicao do objeto Real no Unity: X=0,5419928, Y=1,188008, Z=3,664081
+Posicao do objeto Virtual: X=0,03204825, Y=-0,00730148, Z=0,2936999
+Posicao do objeto Real no Unity: X=0,5570329, Y=1,164743, Z=3,66803
+Posicao do objeto Virtual: X=0,0338098, Y=-0,006613612, Z=0,2930976
+Posicao do objeto Real no Unity: X=0,5529299, Y=1,079852, Z=3,662588
+Posicao do objeto Virtual: X=0,03412151, Y=-0,004140586, Z=0,279443
+Posicao do objeto Real no Unity: X=0,5340239, Y=1,108263, Z=3,658393
+Posicao do objeto Virtual: X=0,03476606, Y=-0,004890472, Z=0,2797576
+Posicao do objeto Real no Unity: X=0,5928541, Y=1,098591, Z=3,665057
+Posicao do objeto Virtual: X=0,03299118, Y=-0,006495118, Z=0,2856752
+Posicao do objeto Real no Unity: X=0,5664555, Y=1,109549, Z=3,662789
+Posicao do objeto Virtual: X=0,03044824, Y=-0,007648468, Z=0,2852271
+Posicao do objeto Real no Unity: X=0,4838508, Y=1,180376, Z=3,652337
+Posicao do objeto Virtual: X=0,02469513, Y=-0,0156568, Z=0,2894986
+Posicao do objeto Real no Unity: X=0,504772, Y=1,135069, Z=3,659688
+Posicao do objeto Virtual: X=0,0222919, Y=-0,01794213, Z=0,2899642
+Posicao do objeto Real no Unity: X=0,4848005, Y=1,112097, Z=3,661737
+Posicao do objeto Virtual: X=0,019862, Y=-0,01921597, Z=0,2887164
+Posicao do objeto Real no Unity: X=0,4611878, Y=1,112703, Z=3,660724
+Posicao do objeto Virtual: X=0,01819837, Y=-0,02122891, Z=0,2885963
+Posicao do objeto Real no Unity: X=0,4498899, Y=1,10761, Z=3,65944
+Posicao do objeto Virtual: X=0,01714458, Y=-0,0249573, Z=0,2887595
+Posicao do objeto Real no Unity: X=0,4680864, Y=1,096337, Z=3,661066
+Posicao do objeto Virtual: X=0,01673611, Y=-0,02880806, Z=0,2904599
+Posicao do objeto Real no Unity: X=0,4817064, Y=1,079311, Z=3,663448
+Posicao do objeto Virtual: X=0,01544991, Y=-0,03173876, Z=0,2916557
+Posicao do objeto Real no Unity: X=0,5119791, Y=1,009584, Z=3,670926
+Posicao do objeto Virtual: X=0,01256308, Y=-0,03682584, Z=0,2921599
+Posicao do objeto Real no Unity: X=0,4865084, Y=0,976614, Z=3,671682
+Posicao do objeto Virtual: X=0,01117903, Y=-0,03938124, Z=0,2900994
+Posicao do objeto Real no Unity: X=0,4913334, Y=0,9556751, Z=3,672814
+Posicao do objeto Virtual: X=0,01082171, Y=-0,04266675, Z=0,2902781
+Posicao do objeto Real no Unity: X=0,499131, Y=0,963607, Z=3,672203
+Posicao do objeto Virtual: X=0,009194747, Y=-0,0463246, Z=0,2920784
+Posicao do objeto Real no Unity: X=0,4835684, Y=0,9583249, Z=3,671098
+Posicao do objeto Virtual: X=0,007796645, Y=-0,049942, Z=0,2921853
+Posicao do objeto Real no Unity: X=0,4902074, Y=0,9183976, Z=3,672468
+Posicao do objeto Virtual: X=0,007348567, Y=-0,05453412, Z=0,2918303
+Posicao do objeto Real no Unity: X=0,5172278, Y=0,8499828, Z=3,676363
+Posicao do objeto Virtual: X=0,007211596, Y=-0,05717807, Z=0,2912924
+Posicao do objeto Real no Unity: X=0,5378575, Y=0,8230939, Z=3,677626
+Posicao do objeto Virtual: X=0,008604705, Y=-0,05898392, Z=0,2915379
+Posicao do objeto Real no Unity: X=0,5506663, Y=0,7753907, Z=3,676293
+Posicao do objeto Virtual: X=0,009222314, Y=-0,0630771, Z=0,289795
+Posicao do objeto Real no Unity: X=0,5603443, Y=0,7322202, Z=3,671584
+Posicao do objeto Virtual: X=0,01106672, Y=-0,07223684, Z=0,287794
+Posicao do objeto Real no Unity: X=0,58781, Y=0,6617855, Z=3,67157
+Posicao do objeto Virtual: X=0,01112655, Y=-0,07454006, Z=0,2869939
+Posicao do objeto Real no Unity: X=0,5993458, Y=0,6233059, Z=3,668322
+Posicao do objeto Virtual: X=0,01262128, Y=-0,07650632, Z=0,2854627
+Posicao do objeto Real no Unity: X=0,6707252, Y=0,541586, Z=3,661875
+Posicao do objeto Virtual: X=0,01444648, Y=-0,08239871, Z=0,2851342
+Posicao do objeto Real no Unity: X=0,9045893, Y=0,403035, Z=3,631326
+Posicao do objeto Virtual: X=0,01662645, Y=-0,09323488, Z=0,2885171
+Posicao do objeto Real no Unity: X=0,8691919, Y=0,3930019, Z=3,630307
+Posicao do objeto Virtual: X=0,0169269, Y=-0,09708582, Z=0,285545
+Posicao do objeto Real no Unity: X=0,9856343, Y=0,3016463, Z=3,605754
+Posicao do objeto Virtual: X=0,01878222, Y=-0,1089533, Z=0,2883899
+Posicao do objeto Real no Unity: X=1,076426, Y=0,1871323, Z=3,572034
+Posicao do objeto Virtual: X=0,0181079, Y=-0,1087766, Z=0,285553
+Posicao do objeto Real no Unity: X=1,104094, Y=0,1642834, Z=3,562172
+Posicao do objeto Virtual: X=0,01891031, Y=-0,1085624, Z=0,2844713
+Posicao do objeto Real no Unity: X=1,147676, Y=0,1514523, Z=3,550117
+Posicao do objeto Virtual: X=0,0189207, Y=-0,1098486, Z=0,2853258
+Posicao do objeto Real no Unity: X=1,116118, Y=0,1473956, Z=3,553989
+Posicao do objeto Virtual: X=0,0179154, Y=-0,1088799, Z=0,2833853
+Posicao do objeto Real no Unity: X=1,110349, Y=0,1468364, Z=3,556626
+Posicao do objeto Virtual: X=0,01763096, Y=-0,1096055, Z=0,2832443
+Posicao do objeto Real no Unity: X=1,142376, Y=0,09780899, Z=3,542693
+Posicao do objeto Virtual: X=0,01816847, Y=-0,1098482, Z=0,2835191
+Posicao do objeto Real no Unity: X=1,147572, Y=0,1416617, Z=3,551175
+Posicao do objeto Virtual: X=0,01912166, Y=-0,1045232, Z=0,2847897
+Posicao do objeto Real no Unity: X=1,118025, Y=0,1616013, Z=3,557854
+Posicao do objeto Virtual: X=0,01855287, Y=-0,09728988, Z=0,2831079
+Posicao do objeto Real no Unity: X=1,232274, Y=0,1195359, Z=3,521978
+Posicao do objeto Virtual: X=0,01655544, Y=-0,09519449, Z=0,284533
+Posicao do objeto Real no Unity: X=1,073856, Y=0,2612187, Z=3,583884
+Posicao do objeto Virtual: X=0,01697206, Y=-0,093404, Z=0,2866888
+Posicao do objeto Real no Unity: X=1,088111, Y=0,1780421, Z=3,565701
+Posicao do objeto Virtual: X=0,01790762, Y=-0,08288491, Z=0,2840819
+Posicao do objeto Real no Unity: X=0,9952984, Y=0,3700179, Z=3,61152
+Posicao do objeto Virtual: X=0,02278075, Y=-0,07217959, Z=0,2859238
+Posicao do objeto Real no Unity: X=0,97934, Y=0,504319, Z=3,623079
+Posicao do objeto Virtual: X=0,02070933, Y=-0,06902908, Z=0,288258
+Posicao do objeto Real no Unity: X=0,9386269, Y=0,52907, Z=3,633608
+Posicao do objeto Virtual: X=0,0196858, Y=-0,06806901, Z=0,2894223
+Posicao do objeto Real no Unity: X=0,9616107, Y=0,5035278, Z=3,625278
+Posicao do objeto Virtual: X=0,01862875, Y=-0,06639713, Z=0,2880113
+Posicao do objeto Real no Unity: X=0,9339687, Y=0,5363933, Z=3,633986
+Posicao do objeto Virtual: X=0,01841447, Y=-0,06496024, Z=0,2896171
+Posicao do objeto Real no Unity: X=0,8920097, Y=0,5433692, Z=3,643987
+Posicao do objeto Virtual: X=0,01841324, Y=-0,05839008, Z=0,2895961
+Posicao do objeto Real no Unity: X=0,8083872, Y=0,6887021, Z=3,662355
+Posicao do objeto Virtual: X=0,02086628, Y=-0,04907875, Z=0,2923003
+Posicao do objeto Real no Unity: X=0,7724474, Y=0,7560363, Z=3,661629
+Posicao do objeto Virtual: X=0,02031755, Y=-0,04809424, Z=0,2913637
+Posicao do objeto Real no Unity: X=0,7827056, Y=0,7434916, Z=3,662321
+Posicao do objeto Virtual: X=0,01961913, Y=-0,04785562, Z=0,2921047
+Posicao do objeto Real no Unity: X=0,7847608, Y=0,7244912, Z=3,665254
+Posicao do objeto Virtual: X=0,01997124, Y=-0,04427704, Z=0,2926768
+Posicao do objeto Real no Unity: X=0,7338515, Y=0,8107431, Z=3,666366
+Posicao do objeto Virtual: X=0,01774938, Y=-0,04299465, Z=0,2932501
+Posicao do objeto Real no Unity: X=0,7334031, Y=0,791739, Z=3,671309
+Posicao do objeto Virtual: X=0,01735765, Y=-0,04158658, Z=0,294715
+Posicao do objeto Real no Unity: X=0,7720324, Y=0,7860272, Z=3,667953
+Posicao do objeto Virtual: X=0,01570272, Y=-0,043861, Z=0,2957215
+Posicao do objeto Real no Unity: X=0,7332212, Y=0,7431605, Z=3,671405
+Posicao do objeto Virtual: X=0,01436147, Y=-0,04925819, Z=0,2944344
+Posicao do objeto Real no Unity: X=0,7535357, Y=0,7369586, Z=3,674225
+Posicao do objeto Virtual: X=0,01396924, Y=-0,05288551, Z=0,2986507
+Posicao do objeto Real no Unity: X=0,7368186, Y=0,7404568, Z=3,677221
+Posicao do objeto Virtual: X=0,01289801, Y=-0,05540087, Z=0,2999176
+Posicao do objeto Real no Unity: X=0,7582144, Y=0,6879467, Z=3,674291
+Posicao do objeto Virtual: X=0,01181297, Y=-0,05662916, Z=0,2992864
+Posicao do objeto Real no Unity: X=0,8060009, Y=0,6820894, Z=3,675697
+Posicao do objeto Virtual: X=0,01085424, Y=-0,05855694, Z=0,3039422
+Posicao do objeto Real no Unity: X=0,7075639, Y=0,6572941, Z=3,685499
+Posicao do objeto Virtual: X=0,006516874, Y=-0,06617327, Z=0,3039048
+Posicao do objeto Real no Unity: X=0,7588295, Y=0,5723346, Z=3,676575
+Posicao do objeto Virtual: X=0,004526198, Y=-0,06625606, Z=0,3016174
+Posicao do objeto Real no Unity: X=0,686794, Y=0,5734621, Z=3,685799
+Posicao do objeto Virtual: X=-0,0001970232, Y=-0,06678457, Z=0,3024321
+Posicao do objeto Real no Unity: X=0,6587982, Y=0,5695673, Z=3,690029
+Posicao do objeto Virtual: X=-0,001009271, Y=-0,0664694, Z=0,3029462
+Posicao do objeto Real no Unity: X=0,7329757, Y=0,4722741, Z=3,687633
+Posicao do objeto Virtual: X=-0,0010975, Y=-0,06076175, Z=0,3055531
+Posicao do objeto Real no Unity: X=0,4759798, Y=0,7262032, Z=3,715948
+Posicao do objeto Virtual: X=-0,006983101, Y=-0,05308772, Z=0,3107728
+Posicao do objeto Real no Unity: X=0,3596761, Y=0,7163674, Z=3,734857
+Posicao do objeto Virtual: X=0,0007256866, Y=-0,04192013, Z=0,3157437
+Posicao do objeto Real no Unity: X=0,3217421, Y=1,125793, Z=3,701546
+Posicao do objeto Virtual: X=-0,005597264, Y=-0,04382968, Z=0,3212976
+Posicao do objeto Real no Unity: X=0,4672604, Y=0,915351, Z=3,715028
+Posicao do objeto Virtual: X=-0,006392777, Y=-0,0524874, Z=0,3170135
+Posicao do objeto Real no Unity: X=0,4555188, Y=0,8738598, Z=3,711962
+Posicao do objeto Virtual: X=-0,007246077, Y=-0,05369899, Z=0,3137318
+Posicao do objeto Real no Unity: X=0,4603551, Y=0,8337719, Z=3,71477
+Posicao do objeto Virtual: X=-0,006248295, Y=-0,05288856, Z=0,3127071
+Posicao do objeto Real no Unity: X=0,4954881, Y=0,8339465, Z=3,714911
+Posicao do objeto Virtual: X=-0,006047249, Y=-0,05393112, Z=0,3140059
+Posicao do objeto Real no Unity: X=0,5591177, Y=0,7829893, Z=3,716949
+Posicao do objeto Virtual: X=-0,008148998, Y=-0,05268022, Z=0,3143805
+Posicao do objeto Real no Unity: X=0,299877, Y=0,967625, Z=3,70936
+Posicao do objeto Virtual: X=-0,01208127, Y=-0,05525741, Z=0,3184462
+Posicao do objeto Real no Unity: X=0,4057493, Y=0,9289684, Z=3,722179
+Posicao do objeto Virtual: X=-0,01478419, Y=-0,05828536, Z=0,3229616
+Posicao do objeto Real no Unity: X=0,4468814, Y=0,8172359, Z=3,720711
+Posicao do objeto Virtual: X=-0,01862904, Y=-0,06105044, Z=0,3180734
+Posicao do objeto Real no Unity: X=0,4187386, Y=0,8434047, Z=3,720428
+Posicao do objeto Virtual: X=-0,01997307, Y=-0,06059627, Z=0,3185451
+Posicao do objeto Real no Unity: X=0,3546349, Y=0,8911592, Z=3,718752
+Posicao do objeto Virtual: X=-0,02043054, Y=-0,06172764, Z=0,3199708
+Posicao do objeto Real no Unity: X=0,361135, Y=0,8367174, Z=3,720544
+Posicao do objeto Virtual: X=-0,0207819, Y=-0,06462258, Z=0,3189424
+Posicao do objeto Real no Unity: X=0,3760703, Y=0,8760247, Z=3,724587
+Posicao do objeto Virtual: X=-0,0190179, Y=-0,06937479, Z=0,3249776
+Posicao do objeto Real no Unity: X=0,4981214, Y=0,7636437, Z=3,736978
+Posicao do objeto Virtual: X=-0,0205639, Y=-0,07267075, Z=0,3284785
+Posicao do objeto Real no Unity: X=0,4831685, Y=0,7220364, Z=3,735865
+Posicao do objeto Virtual: X=-0,02307895, Y=-0,07146016, Z=0,3257079
+Posicao do objeto Real no Unity: X=0,3940766, Y=0,7850317, Z=3,739043
+Posicao do objeto Virtual: X=-0,02160326, Y=-0,07207909, Z=0,3273911
+Posicao do objeto Real no Unity: X=0,3188893, Y=0,8862879, Z=3,739489
+Posicao do objeto Virtual: X=-0,02189019, Y=-0,0765283, Z=0,3329782
+Posicao do objeto Real no Unity: X=0,2592393, Y=0,9368997, Z=3,734332
+Posicao do objeto Virtual: X=-0,02559191, Y=-0,08190341, Z=0,3353271
+Posicao do objeto Real no Unity: X=0,3434005, Y=0,7736983, Z=3,738379
+Posicao do objeto Virtual: X=-0,02785376, Y=-0,08190248, Z=0,3288264
+Posicao do objeto Real no Unity: X=0,3065164, Y=0,792115, Z=3,738075
+Posicao do objeto Virtual: X=-0,02746269, Y=-0,08098651, Z=0,3292669
+Posicao do objeto Real no Unity: X=0,2348126, Y=0,864062, Z=3,73129
+Posicao do objeto Virtual: X=-0,03011358, Y=-0,09078357, Z=0,3320384
+Posicao do objeto Real no Unity: X=0,3298146, Y=0,7265684, Z=3,7439
+Posicao do objeto Virtual: X=-0,02914208, Y=-0,09132067, Z=0,3315952
+Posicao do objeto Real no Unity: X=0,3171126, Y=0,6996691, Z=3,741427
+Posicao do objeto Virtual: X=-0,02909932, Y=-0,09737697, Z=0,3316022
+Posicao do objeto Real no Unity: X=0,3830788, Y=0,6359028, Z=3,741249
+Posicao do objeto Virtual: X=-0,03002504, Y=-0,1060668, Z=0,3328342
+Posicao do objeto Real no Unity: X=0,4217372, Y=0,5773823, Z=3,744729
+Posicao do objeto Virtual: X=-0,03140861, Y=-0,115829, Z=0,3352523
+Posicao do objeto Real no Unity: X=0,4762059, Y=0,4659515, Z=3,740384
+Posicao do objeto Virtual: X=-0,03116801, Y=-0,1221626, Z=0,3352679
+Posicao do objeto Real no Unity: X=0,422444, Y=0,4582815, Z=3,746158
+Posicao do objeto Virtual: X=-0,035027, Y=-0,1294426, Z=0,3372862
+Posicao do objeto Real no Unity: X=0,5277491, Y=0,3644205, Z=3,734663
+Posicao do objeto Virtual: X=-0,03547478, Y=-0,1325124, Z=0,3369751
+Posicao do objeto Real no Unity: X=0,5631553, Y=0,3367804, Z=3,737721
+Posicao do objeto Virtual: X=-0,035485, Y=-0,1415642, Z=0,3407605
+Posicao do objeto Real no Unity: X=0,5804055, Y=0,3078005, Z=3,736136
+Posicao do objeto Virtual: X=-0,03619781, Y=-0,145398, Z=0,3414726
+Posicao do objeto Real no Unity: X=0,6726787, Y=0,1688275, Z=3,720174
+Posicao do objeto Virtual: X=-0,03586394, Y=-0,153866, Z=0,3420948
+Posicao do objeto Real no Unity: X=0,7130137, Y=0,121109, Z=3,711419
+Posicao do objeto Virtual: X=-0,03612006, Y=-0,1541285, Z=0,3424327
+Posicao do objeto Real no Unity: X=0,7008747, Y=0,1116647, Z=3,713898
+Posicao do objeto Virtual: X=-0,03715566, Y=-0,1596509, Z=0,3436673
+Posicao do objeto Real no Unity: X=0,7529072, Y=0,0701471, Z=3,703322
+Posicao do objeto Virtual: X=-0,03539839, Y=-0,1601955, Z=0,3442662
+Posicao do objeto Real no Unity: X=0,7224675, Y=0,03775978, Z=3,703179
+Posicao do objeto Virtual: X=-0,03459275, Y=-0,1589391, Z=0,3436916
+Posicao do objeto Real no Unity: X=0,6675836, Y=0,1248251, Z=3,739221
+Posicao do objeto Virtual: X=-0,02743611, Y=-0,1492591, Z=0,3518473
+Posicao do objeto Real no Unity: X=0,7558472, Y=0,1149668, Z=3,731634
+Posicao do objeto Virtual: X=-0,02779683, Y=-0,1418733, Z=0,3510506
+Posicao do objeto Real no Unity: X=0,7243766, Y=0,1804672, Z=3,746264
+Posicao do objeto Virtual: X=-0,02588734, Y=-0,1386978, Z=0,3521006
+Posicao do objeto Real no Unity: X=0,7075838, Y=0,2574277, Z=3,755227
+Posicao do objeto Virtual: X=-0,025197, Y=-0,1411871, Z=0,3521297
+Posicao do objeto Real no Unity: X=0,7448192, Y=0,1904025, Z=3,744907
+Posicao do objeto Virtual: X=-0,02311641, Y=-0,1498451, Z=0,3530688
+Posicao do objeto Real no Unity: X=0,7887155, Y=0,1526403, Z=3,738911
+Posicao do objeto Virtual: X=-0,02213991, Y=-0,1557987, Z=0,3550997
+Posicao do objeto Real no Unity: X=0,8538536, Y=0,07207146, Z=3,722108
+Posicao do objeto Virtual: X=-0,02375335, Y=-0,1625044, Z=0,3569286
+Posicao do objeto Real no Unity: X=0,8673249, Y=0,0413405, Z=3,721061
+Posicao do objeto Virtual: X=-0,0240584, Y=-0,1619243, Z=0,3590198
+Posicao do objeto Real no Unity: X=0,9077407, Y=-0,02347994, Z=3,708497
+Posicao do objeto Virtual: X=-0,02479127, Y=-0,157616, Z=0,3606724
+Posicao do objeto Real no Unity: X=0,7737957, Y=0,1369527, Z=3,751395
+Posicao do objeto Virtual: X=-0,02361125, Y=-0,1575177, Z=0,3609768
+Posicao do objeto Real no Unity: X=1,444502, Y=-0,561359, Z=3,369368
+Posicao do objeto Virtual: X=-0,02778532, Y=-0,1022452, Z=0,3728585
+Posicao do objeto Real no Unity: X=0,7397519, Y=-0,258804, Z=3,660606
+Posicao do objeto Virtual: X=-0,01878124, Y=-0,07072777, Z=0,3644754
+Posicao do objeto Real no Unity: X=0,9702883, Y=0,2550872, Z=3,838176
+Posicao do objeto Virtual: X=-0,00628154, Y=-0,02844894, Z=0,3984733
+Posicao do objeto Real no Unity: X=0,7156739, Y=0,9470323, Z=3,886687
+Posicao do objeto Virtual: X=-0,02244705, Y=0,001895785, Z=0,3992404
+Posicao do objeto Real no Unity: X=0,3552737, Y=1,294472, Z=3,858503
+Posicao do objeto Virtual: X=-0,01716234, Y=0,02435032, Z=0,394726
+Posicao do objeto Real no Unity: X=-0,0572567, Y=1,820699, Z=3,682968
+Posicao do objeto Virtual: X=-0,02646637, Y=0,04719412, Z=0,3921247
+Posicao do objeto Real no Unity: X=-0,3035956, Y=1,969579, Z=3,567272
+Posicao do objeto Virtual: X=-0,03314501, Y=0,02972758, Z=0,395293
+Posicao do objeto Real no Unity: X=-0,1328488, Y=1,747481, Z=3,683223
+Posicao do objeto Virtual: X=-0,03710473, Y=0,02003419, Z=0,3938081
+Posicao do objeto Real no Unity: X=-0,1342533, Y=1,713062, Z=3,69644
+Posicao do objeto Virtual: X=-0,03907338, Y=0,0190357, Z=0,3938729
+Posicao do objeto Real no Unity: X=-0,1741774, Y=1,724809, Z=3,681657
+Posicao do objeto Virtual: X=-0,03874668, Y=0,01793087, Z=0,3919691
+Posicao do objeto Real no Unity: X=-0,1495231, Y=1,696921, Z=3,693302
+Posicao do objeto Virtual: X=-0,03559801, Y=0,01435566, Z=0,3925763
+Posicao do objeto Real no Unity: X=-0,0235481, Y=1,616643, Z=3,736256
+Posicao do objeto Virtual: X=-0,03378198, Y=0,003774524, Z=0,3969325
+Posicao do objeto Real no Unity: X=-0,09368187, Y=1,599319, Z=3,728708
+Posicao do objeto Virtual: X=-0,03194413, Y=-0,002614439, Z=0,3965014
+Posicao do objeto Real no Unity: X=-0,01626098, Y=1,615621, Z=3,750762
+Posicao do objeto Virtual: X=-0,026535, Y=-0,003313005, Z=0,4077777
+Posicao do objeto Real no Unity: X=0,1181896, Y=1,526048, Z=3,779049
+Posicao do objeto Virtual: X=-0,0188491, Y=-0,007357061, Z=0,4026221
+Posicao do objeto Real no Unity: X=0,1509762, Y=1,509017, Z=3,786379
+Posicao do objeto Virtual: X=-0,01953307, Y=-0,01589155, Z=0,4063337
+Posicao do objeto Real no Unity: X=0,2406966, Y=1,336188, Z=3,830423
+Posicao do objeto Virtual: X=-0,01681796, Y=-0,02088997, Z=0,4023967
+Posicao do objeto Real no Unity: X=0,3160889, Y=1,247273, Z=3,844516
+Posicao do objeto Virtual: X=-0,0152891, Y=-0,02230018, Z=0,3976729
+Posicao do objeto Real no Unity: X=0,2747712, Y=1,248335, Z=3,84296
+Posicao do objeto Virtual: X=-0,0148699, Y=-0,02163899, Z=0,3967701
+Posicao do objeto Real no Unity: X=0,275473, Y=1,252782, Z=3,84236
+Posicao do objeto Virtual: X=-0,01429704, Y=-0,02632913, Z=0,3988831
+Posicao do objeto Real no Unity: X=0,342071, Y=1,182931, Z=3,859797
+Posicao do objeto Virtual: X=-0,0130108, Y=-0,0259617, Z=0,3995073
+Posicao do objeto Real no Unity: X=0,3606942, Y=1,179166, Z=3,863383
+Posicao do objeto Virtual: X=-0,01092353, Y=-0,02306882, Z=0,3998288
+Posicao do objeto Real no Unity: X=0,2913808, Y=1,259231, Z=3,848975
+Posicao do objeto Virtual: X=-0,01288989, Y=-0,02049142, Z=0,4006484
+Posicao do objeto Real no Unity: X=0,3236956, Y=1,215518, Z=3,85761
+Posicao do objeto Virtual: X=-0,01394841, Y=-0,02160066, Z=0,4002719
+Posicao do objeto Real no Unity: X=0,2826791, Y=1,274158, Z=3,84592
+Posicao do objeto Virtual: X=-0,01510286, Y=-0,02487445, Z=0,4029263
+Posicao do objeto Real no Unity: X=0,2728189, Y=1,274832, Z=3,846496
+Posicao do objeto Virtual: X=-0,01477852, Y=-0,02704385, Z=0,4042125
+Posicao do objeto Real no Unity: X=0,2984175, Y=1,20676, Z=3,856041
+Posicao do objeto Virtual: X=-0,01388294, Y=-0,0286575, Z=0,4010036
+Posicao do objeto Real no Unity: X=0,312879, Y=1,224262, Z=3,857261
+Posicao do objeto Virtual: X=-0,01389763, Y=-0,03125057, Z=0,404739
+Posicao do objeto Real no Unity: X=0,3514024, Y=1,121023, Z=3,873961
+Posicao do objeto Virtual: X=-0,01239422, Y=-0,03470212, Z=0,4029036
+Posicao do objeto Real no Unity: X=0,3524378, Y=1,141592, Z=3,875273
+Posicao do objeto Virtual: X=-0,01137194, Y=-0,03595874, Z=0,4063621
+Posicao do objeto Real no Unity: X=0,3656459, Y=1,131456, Z=3,879822
+Posicao do objeto Virtual: X=-0,01156858, Y=-0,0366523, Z=0,4077599
+Posicao do objeto Real no Unity: X=0,3721149, Y=1,137503, Z=3,885133
+Posicao do objeto Virtual: X=-0,01119021, Y=-0,03492364, Z=0,4105507
+Posicao do objeto Real no Unity: X=0,3786725, Y=1,138004, Z=3,885497
+Posicao do objeto Virtual: X=-0,009635448, Y=-0,03387883, Z=0,4102399
+Posicao do objeto Real no Unity: X=0,3791845, Y=1,136079, Z=3,88336
+Posicao do objeto Virtual: X=-0,009829223, Y=-0,03505385, Z=0,4092073
+Posicao do objeto Real no Unity: X=0,4033231, Y=1,135025, Z=3,887982
+Posicao do objeto Virtual: X=-0,01315993, Y=-0,03803867, Z=0,4129202
+Posicao do objeto Real no Unity: X=0,3748899, Y=1,133775, Z=3,886352
+Posicao do objeto Virtual: X=-0,01406401, Y=-0,03920934, Z=0,4120002
+Posicao do objeto Real no Unity: X=0,3846638, Y=1,086484, Z=3,892863
+Posicao do objeto Virtual: X=-0,01403078, Y=-0,04115066, Z=0,4109446
+Posicao do objeto Real no Unity: X=0,3980027, Y=1,064536, Z=3,89787
+Posicao do objeto Virtual: X=-0,01421064, Y=-0,04271418, Z=0,4117569
+Posicao do objeto Real no Unity: X=0,379815, Y=1,075789, Z=3,904423
+Posicao do objeto Virtual: X=-0,01992396, Y=-0,04927573, Z=0,4183037
+Posicao do objeto Real no Unity: X=0,3494304, Y=1,065089, Z=3,900772
+Posicao do objeto Virtual: X=-0,02296159, Y=-0,05472916, Z=0,4170129
+Posicao do objeto Real no Unity: X=0,3213985, Y=1,038965, Z=3,906425
+Posicao do objeto Virtual: X=-0,02439448, Y=-0,05685765, Z=0,4179581
+Posicao do objeto Real no Unity: X=0,2682518, Y=1,050158, Z=3,905488
+Posicao do objeto Virtual: X=-0,02368277, Y=-0,05744304, Z=0,4192457
+Posicao do objeto Real no Unity: X=0,3102954, Y=1,020806, Z=3,909084
+Posicao do objeto Virtual: X=-0,0242244, Y=-0,06030282, Z=0,4190161
+Posicao do objeto Real no Unity: X=0,3269421, Y=0,982751, Z=3,913137
+Posicao do objeto Virtual: X=-0,02603251, Y=-0,06226009, Z=0,4183536
+Posicao do objeto Real no Unity: X=0,2727588, Y=1,031333, Z=3,903272
+Posicao do objeto Virtual: X=-0,0273447, Y=-0,0602012, Z=0,4175556
+Posicao do objeto Real no Unity: X=0,2670096, Y=1,111558, Z=3,896671
+Posicao do objeto Virtual: X=-0,03055844, Y=-0,06751013, Z=0,4252172
+Posicao do objeto Real no Unity: X=0,2748877, Y=1,094379, Z=3,902413
+Posicao do objeto Virtual: X=-0,03115141, Y=-0,067678, Z=0,4265517
+Posicao do objeto Real no Unity: X=0,2783549, Y=1,073082, Z=3,904935
+Posicao do objeto Virtual: X=-0,03097892, Y=-0,06569138, Z=0,4249796
+Posicao do objeto Real no Unity: X=0,2915778, Y=1,114684, Z=3,89555
+Posicao do objeto Virtual: X=-0,03311539, Y=-0,07219797, Z=0,4267132
+Posicao do objeto Real no Unity: X=0,3450984, Y=1,054127, Z=3,906488
+Posicao do objeto Virtual: X=-0,0335812, Y=-0,0748757, Z=0,4272782
+Posicao do objeto Real no Unity: X=0,3145065, Y=1,05425, Z=3,903905
+Posicao do objeto Virtual: X=-0,03299034, Y=-0,07591631, Z=0,4259508
+Posicao do objeto Real no Unity: X=0,3462368, Y=0,9825858, Z=3,910413
+Posicao do objeto Virtual: X=-0,03279185, Y=-0,07633063, Z=0,4228239
+Posicao do objeto Real no Unity: X=0,3248744, Y=1,028187, Z=3,907902
+Posicao do objeto Virtual: X=-0,0342471, Y=-0,07833339, Z=0,426186
+Posicao do objeto Real no Unity: X=0,2968628, Y=0,9363214, Z=3,911283
+Posicao do objeto Virtual: X=-0,03630674, Y=-0,07784948, Z=0,4192646
+Posicao do objeto Real no Unity: X=0,2471785, Y=0,9802106, Z=3,90569
+Posicao do objeto Virtual: X=-0,03632611, Y=-0,07853109, Z=0,4205949
+Posicao do objeto Real no Unity: X=0,2848819, Y=0,9581152, Z=3,911501
+Posicao do objeto Virtual: X=-0,03514996, Y=-0,07831445, Z=0,4216661
+Posicao do objeto Real no Unity: X=0,2794152, Y=0,9869392, Z=3,910408
+Posicao do objeto Virtual: X=-0,03485435, Y=-0,07763427, Z=0,4230958
+Posicao do objeto Real no Unity: X=0,3148136, Y=0,9657153, Z=3,917305
+Posicao do objeto Virtual: X=-0,03690198, Y=-0,07560602, Z=0,4243468
+Posicao do objeto Real no Unity: X=0,2583096, Y=1,022417, Z=3,915379
+Posicao do objeto Virtual: X=-0,03670868, Y=-0,07309367, Z=0,4276794
+Posicao do objeto Real no Unity: X=0,2644091, Y=0,9524254, Z=3,92903
+Posicao do objeto Virtual: X=-0,03446206, Y=-0,06396985, Z=0,4262998
+Posicao do objeto Real no Unity: X=0,2354067, Y=1,170537, Z=3,906256
+Posicao do objeto Virtual: X=-0,03146353, Y=-0,06631225, Z=0,4371279
+Posicao do objeto Real no Unity: X=0,1371177, Y=1,391888, Z=3,859889
+Posicao do objeto Virtual: X=-0,03201899, Y=-0,07200947, Z=0,4485757
+Posicao do objeto Real no Unity: X=0,174106, Y=1,342335, Z=3,881092
+Posicao do objeto Virtual: X=-0,03241745, Y=-0,07168853, Z=0,4507853
+Posicao do objeto Real no Unity: X=0,206751, Y=1,325339, Z=3,883896
+Posicao do objeto Virtual: X=-0,02942213, Y=-0,06409353, Z=0,4461612
+Posicao do objeto Real no Unity: X=0,1456987, Y=1,403324, Z=3,859169
+Posicao do objeto Virtual: X=-0,03159857, Y=-0,0696677, Z=0,4489179
+Posicao do objeto Real no Unity: X=0,2406904, Y=1,235846, Z=3,899154
+Posicao do objeto Virtual: X=-0,03699923, Y=-0,07257149, Z=0,4446563
+Posicao do objeto Real no Unity: X=0,208111, Y=1,270161, Z=3,889913
+Posicao do objeto Virtual: X=-0,03786087, Y=-0,07305214, Z=0,4448276
+Posicao do objeto Real no Unity: X=0,1639457, Y=1,311638, Z=3,878126
+Posicao do objeto Virtual: X=-0,03865397, Y=-0,07440788, Z=0,4457526
+Posicao do objeto Real no Unity: X=0,1839654, Y=1,218043, Z=3,895985
+Posicao do objeto Virtual: X=-0,03910741, Y=-0,07355261, Z=0,440975
+Posicao do objeto Real no Unity: X=0,1511559, Y=1,18877, Z=3,896465
+Posicao do objeto Virtual: X=-0,03992951, Y=-0,07074967, Z=0,4368773
+Posicao do objeto Real no Unity: X=0,09070495, Y=1,247071, Z=3,880783
+Posicao do objeto Virtual: X=-0,04207391, Y=-0,07327664, Z=0,4390802
+Posicao do objeto Real no Unity: X=0,2325533, Y=1,115788, Z=3,917801
+Posicao do objeto Virtual: X=-0,04466754, Y=-0,07204871, Z=0,4390666
+Posicao do objeto Real no Unity: X=0,2141423, Y=1,133163, Z=3,918692
+Posicao do objeto Virtual: X=-0,04406866, Y=-0,06902653, Z=0,4407644
+Posicao do objeto Real no Unity: X=0,1918597, Y=1,090401, Z=3,915609
+Posicao do objeto Virtual: X=-0,03948575, Y=-0,07203627, Z=0,4350579
+Posicao do objeto Real no Unity: X=0,1954942, Y=1,145658, Z=3,910931
+Posicao do objeto Virtual: X=-0,03902817, Y=-0,07324108, Z=0,4392929
+Posicao do objeto Real no Unity: X=0,198803, Y=1,104373, Z=3,916485
+Posicao do objeto Virtual: X=-0,03865027, Y=-0,07546861, Z=0,437871
+Posicao do objeto Real no Unity: X=0,2950633, Y=1,004105, Z=3,934199
+Posicao do objeto Virtual: X=-0,0386169, Y=-0,07567273, Z=0,4366328
+Posicao do objeto Real no Unity: X=0,1594861, Y=1,144182, Z=3,909301
+Posicao do objeto Virtual: X=-0,03967151, Y=-0,07690838, Z=0,4398704
+Posicao do objeto Real no Unity: X=0,2402442, Y=1,062929, Z=3,926863
+Posicao do objeto Virtual: X=-0,04041159, Y=-0,07874729, Z=0,4395773
+Posicao do objeto Real no Unity: X=0,2639287, Y=1,027353, Z=3,93251
+Posicao do objeto Virtual: X=-0,04071647, Y=-0,07816818, Z=0,4386888
+Posicao do objeto Real no Unity: X=0,2607812, Y=1,032424, Z=3,931156
+Posicao do objeto Virtual: X=-0,04071894, Y=-0,07797256, Z=0,4384073
+Posicao do objeto Real no Unity: X=0,2606266, Y=1,005847, Z=3,933972
+Posicao do objeto Virtual: X=-0,04028034, Y=-0,07875578, Z=0,4375637
+Posicao do objeto Real no Unity: X=0,293486, Y=0,9923189, Z=3,939598
+Posicao do objeto Virtual: X=-0,04092082, Y=-0,07728268, Z=0,4386367
+Posicao do objeto Real no Unity: X=0,2482057, Y=1,007236, Z=3,935173
+Posicao do objeto Virtual: X=-0,04061788, Y=-0,07693486, Z=0,4378209
+Posicao do objeto Real no Unity: X=0,2995766, Y=0,9946321, Z=3,940195
+Posicao do objeto Virtual: X=-0,04101366, Y=-0,07857235, Z=0,439612
+Posicao do objeto Real no Unity: X=0,2134404, Y=1,005829, Z=3,934181
+Posicao do objeto Virtual: X=-0,04250231, Y=-0,08313532, Z=0,4400663
+Posicao do objeto Real no Unity: X=0,2584819, Y=0,9388595, Z=3,94316
+Posicao do objeto Virtual: X=-0,04520792, Y=-0,08495112, Z=0,4393514
+Posicao do objeto Real no Unity: X=0,253774, Y=0,8991475, Z=3,941711
+Posicao do objeto Virtual: X=-0,04852697, Y=-0,08425575, Z=0,4347634
+Posicao do objeto Real no Unity: X=0,2344461, Y=0,9491222, Z=3,940506
+Posicao do objeto Virtual: X=-0,04981777, Y=-0,08558239, Z=0,4386013
+Posicao do objeto Real no Unity: X=0,2202907, Y=0,9657151, Z=3,937678
+Posicao do objeto Virtual: X=-0,05091283, Y=-0,0874958, Z=0,4393166
+Posicao do objeto Real no Unity: X=0,2283221, Y=0,9273126, Z=3,941091
+Posicao do objeto Virtual: X=-0,05030861, Y=-0,09051104, Z=0,4390941
+Posicao do objeto Real no Unity: X=0,219866, Y=0,9110496, Z=3,940385
+Posicao do objeto Virtual: X=-0,0505513, Y=-0,09085535, Z=0,4376354
+Posicao do objeto Real no Unity: X=0,2356864, Y=0,8204245, Z=3,949586
+Posicao do objeto Virtual: X=-0,04997855, Y=-0,08870076, Z=0,4363998
+Posicao do objeto Real no Unity: X=0,215671, Y=0,8594112, Z=3,949518
+Posicao do objeto Virtual: X=-0,04784018, Y=-0,08700631, Z=0,4388485
+Posicao do objeto Real no Unity: X=0,4945962, Y=0,7487943, Z=3,985298
+Posicao do objeto Virtual: X=-0,04501468, Y=-0,07896039, Z=0,451174
+Posicao do objeto Real no Unity: X=0,252513, Y=0,8941633, Z=3,959163
+Posicao do objeto Virtual: X=-0,042739, Y=-0,07076225, Z=0,4417831
+Posicao do objeto Real no Unity: X=0,2514704, Y=1,092209, Z=3,938617
+Posicao do objeto Virtual: X=-0,03467074, Y=-0,06621872, Z=0,44494
+Posicao do objeto Real no Unity: X=0,2845522, Y=1,107738, Z=3,940672
+Posicao do objeto Virtual: X=-0,03647891, Y=-0,07033488, Z=0,4488082
+Posicao do objeto Real no Unity: X=0,2856385, Y=1,087421, Z=3,944517
+Posicao do objeto Virtual: X=-0,03719804, Y=-0,07347357, Z=0,4495809
+Posicao do objeto Real no Unity: X=0,2983499, Y=1,048383, Z=3,947256
+Posicao do objeto Virtual: X=-0,03776953, Y=-0,07267697, Z=0,4468246
+Posicao do objeto Real no Unity: X=0,3567624, Y=1,017362, Z=3,957346
+Posicao do objeto Virtual: X=-0,03983977, Y=-0,07236095, Z=0,4498681
+Posicao do objeto Real no Unity: X=0,2749804, Y=1,059688, Z=3,945946
+Posicao do objeto Virtual: X=-0,04052302, Y=-0,0722927, Z=0,4477149
+Posicao do objeto Real no Unity: X=0,1849142, Y=1,115022, Z=3,933141
+Posicao do objeto Virtual: X=-0,0405992, Y=-0,07601875, Z=0,449044
+Posicao do objeto Real no Unity: X=0,1914695, Y=1,095226, Z=3,939559
+Posicao do objeto Virtual: X=-0,04218122, Y=-0,07845263, Z=0,4507848
+Posicao do objeto Real no Unity: X=0,2049195, Y=1,06188, Z=3,943261
+Posicao do objeto Virtual: X=-0,04306361, Y=-0,07993418, Z=0,4495301
+Posicao do objeto Real no Unity: X=0,2087925, Y=0,9971082, Z=3,952444
+Posicao do objeto Virtual: X=-0,04416764, Y=-0,08232202, Z=0,4494047
+Posicao do objeto Real no Unity: X=0,2548383, Y=0,9745426, Z=3,958314
+Posicao do objeto Virtual: X=-0,04410285, Y=-0,08359034, Z=0,4507401
+Posicao do objeto Real no Unity: X=0,267997, Y=0,9668077, Z=3,962431
+Posicao do objeto Virtual: X=-0,04405028, Y=-0,08477037, Z=0,4523847
+Posicao do objeto Real no Unity: X=0,2389665, Y=0,9919025, Z=3,957569
+Posicao do objeto Virtual: X=-0,04479992, Y=-0,08652112, Z=0,4523765
+Posicao do objeto Real no Unity: X=0,2139786, Y=1,030993, Z=3,951771
+Posicao do objeto Virtual: X=-0,04623127, Y=-0,0893129, Z=0,454005
+Posicao do objeto Real no Unity: X=0,2823091, Y=0,8896648, Z=3,967897
+Posicao do objeto Virtual: X=-0,04378095, Y=-0,08818879, Z=0,4503059
+Posicao do objeto Real no Unity: X=0,3369815, Y=0,9971001, Z=3,992765
+Posicao do objeto Virtual: X=-0,04454961, Y=-0,07909256, Z=0,4693252
+Posicao do objeto Real no Unity: X=0,1979579, Y=1,137878, Z=3,948099
+Posicao do objeto Virtual: X=-0,0443911, Y=-0,07649806, Z=0,4593886
+Posicao do objeto Real no Unity: X=0,1185081, Y=1,221302, Z=3,930813
+Posicao do objeto Virtual: X=-0,04504001, Y=-0,06855437, Z=0,4591435
+Posicao do objeto Real no Unity: X=0,05860913, Y=1,296499, Z=3,90531
+Posicao do objeto Virtual: X=-0,04432684, Y=-0,06860414, Z=0,4580567
+Posicao do objeto Real no Unity: X=0,09773654, Y=1,275408, Z=3,912731
+Posicao do objeto Virtual: X=-0,04435605, Y=-0,07038543, Z=0,4584379
+Posicao do objeto Real no Unity: X=0,1683869, Y=1,141671, Z=3,941819
+Posicao do objeto Virtual: X=-0,04241383, Y=-0,06825535, Z=0,4545764
+Posicao do objeto Real no Unity: X=0,1895805, Y=1,148367, Z=3,948016
+Posicao do objeto Virtual: X=-0,04425243, Y=-0,067459, Z=0,4578764
+Posicao do objeto Real no Unity: X=0,1749304, Y=1,161483, Z=3,952532
+Posicao do objeto Virtual: X=-0,04537183, Y=-0,06461066, Z=0,4608736
+Posicao do objeto Real no Unity: X=0,02280131, Y=1,407431, Z=3,888235
+Posicao do objeto Virtual: X=-0,04940906, Y=-0,06424195, Z=0,4654069
+Posicao do objeto Real no Unity: X=0,09766391, Y=1,287331, Z=3,930059
+Posicao do objeto Virtual: X=-0,05137655, Y=-0,06081972, Z=0,4649433
+Posicao do objeto Real no Unity: X=0,0934543, Y=1,269542, Z=3,928425
+Posicao do objeto Virtual: X=-0,04919758, Y=-0,04951254, Z=0,4577572
+Posicao do objeto Real no Unity: X=0,04830211, Y=1,356781, Z=3,898303
+Posicao do objeto Virtual: X=-0,05153096, Y=-0,05092457, Z=0,4558511
+Posicao do objeto Real no Unity: X=0,0434956, Y=1,307753, Z=3,906117
+Posicao do objeto Virtual: X=-0,05156186, Y=-0,05291113, Z=0,4538502
+Posicao do objeto Real no Unity: X=0,1163541, Y=1,259657, Z=3,925887
+Posicao do objeto Virtual: X=-0,05047709, Y=-0,05177402, Z=0,4548774
+Posicao do objeto Real no Unity: X=0,03515294, Y=1,350966, Z=3,902666
+Posicao do objeto Virtual: X=-0,04981354, Y=-0,0520387, Z=0,4582552
+Posicao do objeto Real no Unity: X=0,05412138, Y=1,330485, Z=3,909886
+Posicao do objeto Virtual: X=-0,04851773, Y=-0,05052933, Z=0,4577883
+Posicao do objeto Real no Unity: X=0,108133, Y=1,311523, Z=3,919528
+Posicao do objeto Virtual: X=-0,04730448, Y=-0,05061075, Z=0,4586054
+Posicao do objeto Real no Unity: X=0,1300355, Y=1,259951, Z=3,92867
+Posicao do objeto Virtual: X=-0,04686913, Y=-0,05015031, Z=0,4555628
+Posicao do objeto Real no Unity: X=0,1440435, Y=1,26435, Z=3,935334
+Posicao do objeto Virtual: X=-0,04683053, Y=-0,04971361, Z=0,4592919
+Posicao do objeto Real no Unity: X=0,1447729, Y=1,298796, Z=3,926181
+Posicao do objeto Virtual: X=-0,0484792, Y=-0,04954118, Z=0,4588327
+Posicao do objeto Real no Unity: X=0,1519787, Y=1,2885, Z=3,92939
+Posicao do objeto Virtual: X=-0,04945934, Y=-0,04928029, Z=0,4589373
+Posicao do objeto Real no Unity: X=0,01433203, Y=1,508197, Z=3,880128
+Posicao do objeto Virtual: X=-0,05391517, Y=-0,04757321, Z=0,4713945
+Posicao do objeto Real no Unity: X=-0,04965684, Y=1,515319, Z=3,860422
+Posicao do objeto Virtual: X=-0,06034815, Y=-0,04697719, Z=0,4647338
+Posicao do objeto Real no Unity: X=-0,06691891, Y=1,495538, Z=3,860758
+Posicao do objeto Virtual: X=-0,06193885, Y=-0,05089238, Z=0,4640118
+Posicao do objeto Real no Unity: X=-0,01909429, Y=1,354659, Z=3,900581
+Posicao do objeto Virtual: X=-0,06377673, Y=-0,05324975, Z=0,4605622
+Posicao do objeto Real no Unity: X=-0,07620528, Y=1,403545, Z=3,886243
+Posicao do objeto Virtual: X=-0,0665791, Y=-0,05404404, Z=0,4641885
+Posicao do objeto Real no Unity: X=-0,05373362, Y=1,451928, Z=3,89926
+Posicao do objeto Virtual: X=-0,07045573, Y=-0,05003375, Z=0,4756584
+Posicao do objeto Real no Unity: X=-0,3168401, Y=1,660717, Z=3,774457
+Posicao do objeto Virtual: X=-0,07780716, Y=-0,04536295, Z=0,4658478
+Posicao do objeto Real no Unity: X=-0,3843013, Y=1,80525, Z=3,723162
+Posicao do objeto Virtual: X=-0,07272255, Y=-0,04608485, Z=0,4790183
+Posicao do objeto Real no Unity: X=-0,2804077, Y=1,659446, Z=3,792748
+Posicao do objeto Virtual: X=-0,06466433, Y=-0,04781684, Z=0,474251
+Posicao do objeto Real no Unity: X=-0,2723027, Y=1,711365, Z=3,790358
+Posicao do objeto Virtual: X=-0,05891493, Y=-0,04840335, Z=0,4841208
+Posicao do objeto Real no Unity: X=-0,09416476, Y=1,544037, Z=3,869956
+Posicao do objeto Virtual: X=-0,04940066, Y=-0,04449415, Z=0,4773029
+Posicao do objeto Real no Unity: X=-0,05962071, Y=1,48122, Z=3,892413
+Posicao do objeto Virtual: X=-0,04240659, Y=-0,04889315, Z=0,4780498
+Posicao do objeto Real no Unity: X=0,2379416, Y=1,205235, Z=4,005153
+Posicao do objeto Virtual: X=-0,02084786, Y=-0,05028245, Z=0,4862797
+Posicao do objeto Real no Unity: X=0,2521587, Y=1,40017, Z=3,981652
+Posicao do objeto Virtual: X=-0,002800345, Y=-0,02252665, Z=0,4903336
+Posicao do objeto Real no Unity: X=0,2350602, Y=1,424544, Z=3,990036
+Posicao do objeto Virtual: X=0,0027363, Y=-0,01315212, Z=0,4950194
+Posicao do objeto Real no Unity: X=0,1930645, Y=1,694515, Z=3,899553
+Posicao do objeto Virtual: X=0,01516195, Y=0,003547072, Z=0,4919703
+Posicao do objeto Real no Unity: X=0,182211, Y=1,70629, Z=3,893847
+Posicao do objeto Virtual: X=0,01589316, Y=0,003550291, Z=0,49174
+Posicao do objeto Real no Unity: X=0,2398741, Y=1,676818, Z=3,909646
+Posicao do objeto Virtual: X=0,02081595, Y=-0,003692687, Z=0,4968978
+Posicao do objeto Real no Unity: X=0,21104, Y=1,702506, Z=3,903717
+Posicao do objeto Virtual: X=0,01700243, Y=-0,0005763769, Z=0,4978561
+Posicao do objeto Real no Unity: X=0,227577, Y=1,724679, Z=3,888072
+Posicao do objeto Virtual: X=0,01006153, Y=-0,002695858, Z=0,4958228
+Posicao do objeto Real no Unity: X=0,1336477, Y=1,710666, Z=3,883585
+Posicao do objeto Virtual: X=0,00781706, Y=-0,00429517, Z=0,4920294
+Posicao do objeto Real no Unity: X=0,1009842, Y=1,809928, Z=3,848801
+Posicao do objeto Virtual: X=0,005913168, Y=-0,005451143, Z=0,4982486
+Posicao do objeto Real no Unity: X=0,08565778, Y=1,758111, Z=3,859495
+Posicao do objeto Virtual: X=0,00219205, Y=-0,009591222, Z=0,4939752
+Posicao do objeto Real no Unity: X=0,06312644, Y=1,672826, Z=3,88723
+Posicao do objeto Virtual: X=0,004400641, Y=-0,01355195, Z=0,4920149
+Posicao do objeto Real no Unity: X=0,09922397, Y=1,63302, Z=3,907844
+Posicao do objeto Virtual: X=0,005321145, Y=-0,01118344, Z=0,4919164
+Posicao do objeto Real no Unity: X=0,1324252, Y=1,592602, Z=3,922131
+Posicao do objeto Virtual: X=0,00759533, Y=-0,01104975, Z=0,490369
+Posicao do objeto Real no Unity: X=0,1173759, Y=1,577769, Z=3,922434
+Posicao do objeto Virtual: X=0,007864118, Y=-0,01393157, Z=0,4892865
+Posicao do objeto Real no Unity: X=0,1319577, Y=1,554881, Z=3,927307
+Posicao do objeto Virtual: X=0,007840186, Y=-0,01684541, Z=0,4882866
+Posicao do objeto Real no Unity: X=0,1849261, Y=1,439908, Z=3,958282
+Posicao do objeto Virtual: X=0,007854283, Y=-0,02019951, Z=0,4841754
+Posicao do objeto Real no Unity: X=0,3376403, Y=1,38372, Z=4,00371
+Posicao do objeto Virtual: X=0,008658364, Y=-0,02115306, Z=0,4977614
+Posicao do objeto Real no Unity: X=0,3731175, Y=1,309284, Z=4,019253
+Posicao do objeto Virtual: X=0,01621808, Y=-0,02345714, Z=0,4964483
+Posicao do objeto Real no Unity: X=0,4322684, Y=1,239141, Z=4,033099
+Posicao do objeto Virtual: X=0,01971798, Y=-0,02519202, Z=0,4948375
+Posicao do objeto Real no Unity: X=0,3929568, Y=1,306069, Z=4,022545
+Posicao do objeto Virtual: X=0,02449206, Y=-0,0267837, Z=0,4979906
+Posicao do objeto Real no Unity: X=0,569541, Y=1,217623, Z=4,036314
+Posicao do objeto Virtual: X=0,02940659, Y=-0,02716035, Z=0,4980664
+Posicao do objeto Real no Unity: X=0,4728143, Y=1,301671, Z=4,023773
+Posicao do objeto Virtual: X=0,03364551, Y=-0,03098676, Z=0,5011427
+Posicao do objeto Real no Unity: X=0,506695, Y=1,232987, Z=4,046109
+Posicao do objeto Virtual: X=0,03904749, Y=-0,03398818, Z=0,504986
+Posicao do objeto Real no Unity: X=0,5721748, Y=1,23173, Z=4,045702
+Posicao do objeto Virtual: X=0,04304135, Y=-0,03657013, Z=0,5077752
+Posicao do objeto Real no Unity: X=0,6221983, Y=1,197514, Z=4,061082
+Posicao do objeto Virtual: X=0,05393892, Y=-0,04314336, Z=0,5149798
+Posicao do objeto Real no Unity: X=0,7661065, Y=1,095276, Z=4,089124
+Posicao do objeto Virtual: X=0,05877078, Y=-0,02886155, Z=0,5198908
+Posicao do objeto Real no Unity: X=0,8455041, Y=1,004057, Z=4,100234
+Posicao do objeto Virtual: X=0,06150435, Y=-0,03485951, Z=0,5237957
+Posicao do objeto Real no Unity: X=0,8219008, Y=1,076548, Z=4,084835
+Posicao do objeto Virtual: X=0,06308077, Y=-0,03287682, Z=0,5209651
+Posicao do objeto Real no Unity: X=0,8350432, Y=1,045465, Z=4,088628
+Posicao do objeto Virtual: X=0,06176088, Y=-0,03483659, Z=0,5214496
+Posicao do objeto Real no Unity: X=0,9071085, Y=0,940724, Z=4,101511
+Posicao do objeto Virtual: X=0,06954968, Y=-0,03173295, Z=0,5222443
+Posicao do objeto Real no Unity: X=0,8990275, Y=1,006937, Z=4,097116
+Posicao do objeto Virtual: X=0,06769601, Y=-0,02942568, Z=0,5253334
+Posicao do objeto Real no Unity: X=0,7251043, Y=1,105019, Z=4,093434
+Posicao do objeto Virtual: X=0,06966189, Y=-0,0249179, Z=0,5194693
+Posicao do objeto Real no Unity: X=0,7000039, Y=1,106264, Z=4,094588
+Posicao do objeto Virtual: X=0,07144981, Y=-0,02429095, Z=0,5185463
+Posicao do objeto Real no Unity: X=0,6524258, Y=1,228874, Z=4,082786
+Posicao do objeto Virtual: X=0,06718339, Y=-0,02241352, Z=0,5249462
+Posicao do objeto Real no Unity: X=0,6430706, Y=1,214839, Z=4,086576
+Posicao do objeto Virtual: X=0,0664031, Y=-0,02245209, Z=0,5246814
+Posicao do objeto Real no Unity: X=0,6271024, Y=1,22376, Z=4,08107
+Posicao do objeto Virtual: X=0,0647671, Y=-0,02207917, Z=0,5221255
+Posicao do objeto Real no Unity: X=0,6262389, Y=1,252717, Z=4,077953
+Posicao do objeto Virtual: X=0,06501221, Y=-0,02274531, Z=0,5245631
+Posicao do objeto Real no Unity: X=0,6439926, Y=1,236879, Z=4,086181
+Posicao do objeto Virtual: X=0,06224102, Y=-0,02112749, Z=0,5271326
+Posicao do objeto Real no Unity: X=0,5509334, Y=1,281535, Z=4,075529
+Posicao do objeto Virtual: X=0,05330539, Y=-0,02110806, Z=0,5244536
+Posicao do objeto Real no Unity: X=0,4233835, Y=1,351664, Z=4,056509
+Posicao do objeto Virtual: X=0,04173532, Y=-0,02338669, Z=0,5234852
+Posicao do objeto Real no Unity: X=0,4582323, Y=1,307293, Z=4,063639
+Posicao do objeto Virtual: X=0,03771459, Y=-0,02612793, Z=0,5227594
+Posicao do objeto Real no Unity: X=0,4571084, Y=1,285587, Z=4,06894
+Posicao do objeto Virtual: X=0,03430912, Y=-0,02517444, Z=0,522419
+Posicao do objeto Real no Unity: X=0,3945838, Y=1,337748, Z=4,059375
+Posicao do objeto Virtual: X=0,0289261, Y=-0,02515453, Z=0,5242682
+Posicao do objeto Real no Unity: X=0,2944999, Y=1,393747, Z=4,034554
+Posicao do objeto Virtual: X=0,02380466, Y=-0,02615601, Z=0,5203018
+Posicao do objeto Real no Unity: X=0,2723328, Y=1,387281, Z=4,033011
+Posicao do objeto Virtual: X=0,01824629, Y=-0,02591598, Z=0,5189716
+Posicao do objeto Real no Unity: X=0,2835529, Y=1,349296, Z=4,040096
+Posicao do objeto Virtual: X=0,01706985, Y=-0,02923179, Z=0,5183167
+Posicao do objeto Real no Unity: X=0,2257164, Y=1,395532, Z=4,024168
+Posicao do objeto Virtual: X=0,01275095, Y=-0,03032765, Z=0,5181651
+Posicao do objeto Real no Unity: X=0,2951877, Y=1,289075, Z=4,04813
+Posicao do objeto Virtual: X=0,01175433, Y=-0,02811992, Z=0,5139568
+Posicao do objeto Real no Unity: X=0,2550099, Y=1,312837, Z=4,040034
+Posicao do objeto Virtual: X=0,0113031, Y=-0,02778035, Z=0,5131855
+Posicao do objeto Real no Unity: X=0,2557538, Y=1,337809, Z=4,038335
+Posicao do objeto Virtual: X=0,01096234, Y=-0,02663073, Z=0,5152924
+Posicao do objeto Real no Unity: X=0,3102497, Y=1,285608, Z=4,045608
+Posicao do objeto Virtual: X=0,005411983, Y=-0,02649918, Z=0,5117588
+Posicao do objeto Real no Unity: X=0,2736003, Y=1,32694, Z=4,034492
+Posicao do objeto Virtual: X=0,004561454, Y=-0,02826497, Z=0,5124519
+Posicao do objeto Real no Unity: X=0,2360752, Y=1,318536, Z=4,038855
+Posicao do objeto Virtual: X=-0,004096657, Y=-0,03186494, Z=0,5158193
+Posicao do objeto Real no Unity: X=0,2389269, Y=1,293997, Z=4,042266
+Posicao do objeto Virtual: X=-0,006944001, Y=-0,03425726, Z=0,5154474
+Posicao do objeto Real no Unity: X=0,219701, Y=1,311196, Z=4,039686
+Posicao do objeto Virtual: X=-0,0108141, Y=-0,03407007, Z=0,5167022
+Posicao do objeto Real no Unity: X=0,1309655, Y=1,359802, Z=4,018682
+Posicao do objeto Virtual: X=-0,01189193, Y=-0,03441763, Z=0,5147289
+Posicao do objeto Real no Unity: X=0,1128592, Y=1,379098, Z=4,017826
+Posicao do objeto Virtual: X=-0,009426415, Y=-0,02586266, Z=0,5148025
+Posicao do objeto Real no Unity: X=0,1199084, Y=1,368098, Z=4,022865
+Posicao do objeto Virtual: X=-0,006440431, Y=-0,02709469, Z=0,5161997
+Posicao do objeto Real no Unity: X=0,2848923, Y=1,310527, Z=4,056238
+Posicao do objeto Virtual: X=-0,01382306, Y=-0,02746749, Z=0,523549
+Posicao do objeto Real no Unity: X=0,1838162, Y=1,403372, Z=4,027359
+Posicao do objeto Virtual: X=-0,01379874, Y=-0,02828529, Z=0,5229043
+Posicao do objeto Real no Unity: X=0,08619046, Y=1,481442, Z=4,007845
+Posicao do objeto Virtual: X=-0,02126363, Y=-0,02224702, Z=0,525013
+Posicao do objeto Real no Unity: X=0,04045734, Y=1,513881, Z=3,997791
+Posicao do objeto Virtual: X=-0,02730882, Y=-0,02422866, Z=0,5272173
+Posicao do objeto Real no Unity: X=0,04006213, Y=1,45507, Z=4,010702
+Posicao do objeto Virtual: X=-0,03100967, Y=-0,0254308, Z=0,5249119
+Posicao do objeto Real no Unity: X=0,02920204, Y=1,445937, Z=4,013542
+Posicao do objeto Virtual: X=-0,02914184, Y=-0,02775356, Z=0,526427
+Posicao do objeto Real no Unity: X=0,06023383, Y=1,431211, Z=4,020826
+Posicao do objeto Virtual: X=-0,02807459, Y=-0,02896151, Z=0,5272286
+Posicao do objeto Real no Unity: X=0,05889404, Y=1,438319, Z=4,020606
+Posicao do objeto Virtual: X=-0,02839845, Y=-0,03207228, Z=0,529475
+Posicao do objeto Real no Unity: X=0,09487653, Y=1,426177, Z=4,032538
+Posicao do objeto Virtual: X=-0,03011957, Y=-0,03320646, Z=0,533015
+Posicao do objeto Real no Unity: X=0,1173809, Y=1,389556, Z=4,043566
+Posicao do objeto Virtual: X=-0,030294, Y=-0,03272548, Z=0,5325434
+Posicao do objeto Real no Unity: X=0,1021473, Y=1,397601, Z=4,039012
+Posicao do objeto Virtual: X=-0,03155935, Y=-0,03320938, Z=0,5318322
+Posicao do objeto Real no Unity: X=0,07355058, Y=1,407305, Z=4,030356
+Posicao do objeto Virtual: X=-0,03341627, Y=-0,03508711, Z=0,5303441
+Posicao do objeto Real no Unity: X=0,05733383, Y=1,417158, Z=4,03004
+Posicao do objeto Virtual: X=-0,03537035, Y=-0,03560796, Z=0,5323988
+Posicao do objeto Real no Unity: X=0,03614837, Y=1,446391, Z=4,025394
+Posicao do objeto Virtual: X=-0,03791806, Y=-0,0343729, Z=0,5345483
+Posicao do objeto Real no Unity: X=0,04629844, Y=1,408261, Z=4,034617
+Posicao do objeto Virtual: X=-0,03976247, Y=-0,03507125, Z=0,5334586
+Posicao do objeto Real no Unity: X=0,0272187, Y=1,382679, Z=4,035389
+Posicao do objeto Virtual: X=-0,03826565, Y=-0,04045334, Z=0,5331813
+Posicao do objeto Real no Unity: X=-0,07321113, Y=1,430747, Z=4,005785
+Posicao do objeto Virtual: X=-0,03538027, Y=-0,04512379, Z=0,5323387
+Posicao do objeto Real no Unity: X=-0,05479938, Y=1,404296, Z=4,017136
+Posicao do objeto Virtual: X=-0,03522336, Y=-0,04541579, Z=0,5335662
+Posicao do objeto Real no Unity: X=-0,1126561, Y=1,53513, Z=3,980793
+Posicao do objeto Virtual: X=-0,03781176, Y=-0,04233906, Z=0,5369607
+Posicao do objeto Real no Unity: X=0,02448124, Y=1,454672, Z=4,029126
+Posicao do objeto Virtual: X=-0,03887966, Y=-0,04203108, Z=0,5419021
+Posicao do objeto Real no Unity: X=-0,01658356, Y=1,409362, Z=4,027997
+Posicao do objeto Virtual: X=-0,03863919, Y=-0,04158953, Z=0,5361531
+Posicao do objeto Real no Unity: X=0,005386442, Y=1,414886, Z=4,045317
+Posicao do objeto Virtual: X=-0,04446578, Y=-0,03578538, Z=0,5423374
+Posicao do objeto Real no Unity: X=-0,2102078, Y=1,562393, Z=3,958813
+Posicao do objeto Virtual: X=-0,04751295, Y=-0,03416896, Z=0,5332127
+Posicao do objeto Real no Unity: X=-0,1665571, Y=1,417918, Z=4,015787
+Posicao do objeto Virtual: X=-0,04800156, Y=-0,03325319, Z=0,5365462
+Posicao do objeto Real no Unity: X=-0,2855758, Y=1,607796, Z=3,950341
+Posicao do objeto Virtual: X=-0,04970878, Y=-0,02810141, Z=0,5403056
+Posicao do objeto Real no Unity: X=-0,1737426, Y=1,579844, Z=3,990362
+Posicao do objeto Virtual: X=-0,04761675, Y=-0,01883024, Z=0,5428939
+Posicao do objeto Real no Unity: X=-0,2423426, Y=1,653308, Z=3,959796
+Posicao do objeto Virtual: X=-0,04482883, Y=-0,01381284, Z=0,5435711
+Posicao do objeto Real no Unity: X=-0,2349022, Y=1,61326, Z=3,977726
+Posicao do objeto Virtual: X=-0,03311506, Y=-0,005978256, Z=0,5425997
+Posicao do objeto Real no Unity: X=-0,2489374, Y=1,627286, Z=3,967572
+Posicao do objeto Virtual: X=-0,03194678, Y=-0,005911678, Z=0,5411708
+Posicao do objeto Real no Unity: X=-0,2070902, Y=1,632795, Z=3,968449
+Posicao do objeto Virtual: X=-0,02355802, Y=-0,001476675, Z=0,5376332
+Posicao do objeto Real no Unity: X=-0,1390246, Y=1,62396, Z=3,984872
+Posicao do objeto Virtual: X=-0,02340749, Y=-0,002677679, Z=0,5399226
+Posicao do objeto Real no Unity: X=-0,06380108, Y=1,670259, Z=3,997104
+Posicao do objeto Virtual: X=-0,02297121, Y=-0,001514673, Z=0,5493743
+Posicao do objeto Real no Unity: X=-0,02681035, Y=1,601441, Z=4,024548
+Posicao do objeto Virtual: X=-0,02254215, Y=-0,00148508, Z=0,5489613
+Posicao do objeto Real no Unity: X=-0,04166242, Y=1,707182, Z=4,002741
+Posicao do objeto Virtual: X=-0,0203312, Y=0,0008822381, Z=0,5574118
+Posicao do objeto Real no Unity: X=-0,2133117, Y=1,662082, Z=3,972857
+Posicao do objeto Virtual: X=-0,0169425, Y=0,002611607, Z=0,5448598
+Posicao do objeto Real no Unity: X=-0,09225538, Y=1,512066, Z=4,040168
+Posicao do objeto Virtual: X=-0,01569569, Y=0,004092813, Z=0,5450858
+Posicao do objeto Real no Unity: X=-0,3008214, Y=1,862987, Z=3,884662
+Posicao do objeto Virtual: X=-0,01459855, Y=0,001508951, Z=0,5493697
+Posicao do objeto Real no Unity: X=-0,2442569, Y=1,821414, Z=3,910269
+Posicao do objeto Virtual: X=-0,01631829, Y=0,003687918, Z=0,5466856
+Posicao do objeto Real no Unity: X=-0,2603976, Y=1,832246, Z=3,902916
+Posicao do objeto Virtual: X=-0,01706809, Y=0,005389988, Z=0,5457817
+Posicao do objeto Real no Unity: X=-0,05999914, Y=1,699219, Z=4,019249
+Posicao do objeto Virtual: X=-0,02747434, Y=0,01638141, Z=0,5579587
+Posicao do objeto Real no Unity: X=-0,262417, Y=1,876111, Z=3,933459
+Posicao do objeto Virtual: X=-0,03487077, Y=0,02227718, Z=0,5607651
+Posicao do objeto Real no Unity: X=-0,3949184, Y=1,947961, Z=3,875221
+Posicao do objeto Virtual: X=-0,05079752, Y=0,03177428, Z=0,5531622
+Posicao do objeto Real no Unity: X=-0,3902241, Y=1,879858, Z=3,887794
+Posicao do objeto Virtual: X=-0,04804507, Y=0,03146613, Z=0,5440669
+Posicao do objeto Real no Unity: X=-0,3505663, Y=1,830185, Z=3,912354
+Posicao do objeto Virtual: X=-0,04826152, Y=0,03145105, Z=0,541738
+Posicao do objeto Real no Unity: X=-0,3243511, Y=1,81482, Z=3,940537
+Posicao do objeto Virtual: X=-0,04854605, Y=0,03605533, Z=0,5481162
+Posicao do objeto Real no Unity: X=-0,5593544, Y=2,143518, Z=3,707661
+Posicao do objeto Virtual: X=-0,04032162, Y=0,01809996, Z=0,5488408
+Posicao do objeto Real no Unity: X=-0,4328072, Y=1,946199, Z=3,847327
+Posicao do objeto Virtual: X=-0,04222327, Y=0,02118862, Z=0,5496542
+Posicao do objeto Real no Unity: X=-0,4249853, Y=1,948444, Z=3,845816
+Posicao do objeto Virtual: X=-0,0416356, Y=0,02111429, Z=0,5486432
+Posicao do objeto Real no Unity: X=-0,4133726, Y=1,951314, Z=3,847106
+Posicao do objeto Virtual: X=-0,03768837, Y=0,01840425, Z=0,5506908
+Posicao do objeto Real no Unity: X=-0,3867694, Y=1,918258, Z=3,864003
+Posicao do objeto Virtual: X=-0,03515017, Y=0,01359749, Z=0,55143
+Posicao do objeto Real no Unity: X=-0,3991871, Y=1,865748, Z=3,859827
+Posicao do objeto Virtual: X=-0,03392249, Y=0,006482363, Z=0,542524
+Posicao do objeto Real no Unity: X=-0,3011998, Y=1,756191, Z=3,947348
+Posicao do objeto Virtual: X=-0,0386084, Y=-0,000244081, Z=0,5565215
+Posicao do objeto Real no Unity: X=-0,4106406, Y=1,822191, Z=3,877852
+Posicao do objeto Virtual: X=-0,03918558, Y=-0,0009686351, Z=0,5465676
+Posicao do objeto Real no Unity: X=-0,3130809, Y=1,831152, Z=3,922842
+Posicao do objeto Virtual: X=-0,04152396, Y=-0,0002470613, Z=0,5605401
+Posicao do objeto Real no Unity: X=-0,3212159, Y=1,783201, Z=3,928749
+Posicao do objeto Virtual: X=-0,04088473, Y=-0,002428889, Z=0,5553106
+Posicao do objeto Real no Unity: X=-0,3651461, Y=1,792992, Z=3,915387
+Posicao do objeto Virtual: X=-0,04009235, Y=-0,003456861, Z=0,5556436
+Posicao do objeto Real no Unity: X=-0,3279241, Y=1,789358, Z=3,923304
+Posicao do objeto Virtual: X=-0,04153687, Y=-0,004317582, Z=0,5553064
+Posicao do objeto Real no Unity: X=-0,2724136, Y=1,696151, Z=3,972478
+Posicao do objeto Virtual: X=-0,04311344, Y=-0,003658414, Z=0,5562099
+Posicao do objeto Real no Unity: X=-0,2572323, Y=1,702243, Z=3,976218
+Posicao do objeto Virtual: X=-0,04514575, Y=-0,003224373, Z=0,5574929
+Posicao do objeto Real no Unity: X=-0,5255752, Y=1,963041, Z=3,787125
+Posicao do objeto Virtual: X=-0,04390424, Y=-0,0110516, Z=0,5520983
+Posicao do objeto Real no Unity: X=-0,4551635, Y=1,840255, Z=3,852998
+Posicao do objeto Virtual: X=-0,04330719, Y=-0,00684312, Z=0,5455244
+Posicao do objeto Real no Unity: X=-0,4340984, Y=1,809205, Z=3,871154
+Posicao do objeto Virtual: X=-0,04489911, Y=-0,007661343, Z=0,5456727
+Posicao do objeto Real no Unity: X=-0,4644807, Y=1,808983, Z=3,867933
+Posicao do objeto Virtual: X=-0,04529262, Y=-0,00788334, Z=0,5478077
+Posicao do objeto Real no Unity: X=-0,4499604, Y=1,787664, Z=3,878626
+Posicao do objeto Virtual: X=-0,04494005, Y=-0,007024944, Z=0,5466011
+Posicao do objeto Real no Unity: X=-0,3765328, Y=1,802279, Z=3,901604
+Posicao do objeto Virtual: X=-0,04601043, Y=-0,003276438, Z=0,5508657
+Posicao do objeto Real no Unity: X=-0,4554587, Y=1,887231, Z=3,845879
+Posicao do objeto Virtual: X=-0,04448748, Y=-0,003205001, Z=0,5503378
+Posicao do objeto Real no Unity: X=-0,5128417, Y=1,908799, Z=3,816776
+Posicao do objeto Virtual: X=-0,04411691, Y=-0,006531417, Z=0,5497305
+Posicao do objeto Real no Unity: X=-0,4048245, Y=1,811486, Z=3,894025
+Posicao do objeto Virtual: X=-0,04698497, Y=-0,006553978, Z=0,5535789
+Posicao do objeto Real no Unity: X=-0,3770468, Y=1,99324, Z=3,853289
+Posicao do objeto Virtual: X=-0,05021107, Y=-0,006515324, Z=0,5721486
+Posicao do objeto Real no Unity: X=-0,2911808, Y=1,834346, Z=3,947213
+Posicao do objeto Virtual: X=-0,04969054, Y=-0,005923182, Z=0,5736914
+Posicao do objeto Real no Unity: X=-0,19171, Y=1,607698, Z=4,031165
+Posicao do objeto Virtual: X=-0,04948616, Y=-0,006866485, Z=0,5649848
+Posicao do objeto Real no Unity: X=-0,1828952, Y=1,464195, Z=4,074631
+Posicao do objeto Virtual: X=-0,0484508, Y=-0,005045086, Z=0,5640522
+Posicao do objeto Real no Unity: X=-0,2856493, Y=1,797371, Z=3,954111
+Posicao do objeto Virtual: X=-0,04503095, Y=-0,01420367, Z=0,5733819
+Posicao do objeto Real no Unity: X=-0,4125718, Y=1,938558, Z=3,867307
+Posicao do objeto Virtual: X=-0,03489557, Y=-0,01750541, Z=0,5771979
+Posicao do objeto Real no Unity: X=-0,336828, Y=1,709394, Z=3,985006
+Posicao do objeto Virtual: X=-0,02953744, Y=-0,01051238, Z=0,5768969
+Posicao do objeto Real no Unity: X=-0,4172366, Y=1,932733, Z=3,861005
+Posicao do objeto Virtual: X=-0,02303201, Y=-0,01645148, Z=0,5742912
+Posicao do objeto Real no Unity: X=-0,2688641, Y=1,852385, Z=3,901316
+Posicao do objeto Virtual: X=-0,0177891, Y=-0,02780202, Z=0,5672724
+Posicao do objeto Real no Unity: X=-0,2192761, Y=1,656347, Z=3,981653
+Posicao do objeto Virtual: X=-0,01232934, Y=-0,0306043, Z=0,5651881
+Posicao do objeto Real no Unity: X=-0,1535965, Y=1,656847, Z=4,001945
+Posicao do objeto Virtual: X=-0,006908596, Y=-0,03124365, Z=0,5712862
+Posicao do objeto Real no Unity: X=-0,104019, Y=1,642749, Z=3,995737
+Posicao do objeto Virtual: X=0,0007198751, Y=-0,03837836, Z=0,5659109
+Posicao do objeto Real no Unity: X=-0,1819755, Y=1,769539, Z=3,934862
+Posicao do objeto Virtual: X=0,003599018, Y=-0,04565307, Z=0,5699174
+Posicao do objeto Real no Unity: X=-0,1682359, Y=1,751149, Z=3,934225
+Posicao do objeto Virtual: X=0,004755378, Y=-0,06055155, Z=0,5720183
+Posicao do objeto Real no Unity: X=-0,1455602, Y=1,724313, Z=3,943554
+Posicao do objeto Virtual: X=0,003168046, Y=-0,06243309, Z=0,5700903
+Posicao do objeto Real no Unity: X=-0,0521245, Y=1,563683, Z=4,009141
+Posicao do objeto Virtual: X=0,001520783, Y=-0,06131881, Z=0,5656557
+Posicao do objeto Real no Unity: X=-0,02802563, Y=1,444323, Z=4,049358
+Posicao do objeto Virtual: X=0,001546115, Y=-0,05395809, Z=0,5623939
+Posicao do objeto Real no Unity: X=-0,1143653, Y=1,647155, Z=3,982378
+Posicao do objeto Virtual: X=0,005363911, Y=-0,04949191, Z=0,5663562
+Posicao do objeto Real no Unity: X=-0,05736938, Y=1,623212, Z=4,015634
+Posicao do objeto Virtual: X=0,005655706, Y=-0,04246631, Z=0,5723119
+Posicao do objeto Real no Unity: X=-0,167061, Y=1,689873, Z=3,962466
+Posicao do objeto Virtual: X=0,00550735, Y=-0,04210863, Z=0,5650243
+Posicao do objeto Real no Unity: X=-0,1459565, Y=1,654545, Z=3,984581
+Posicao do objeto Virtual: X=0,004560024, Y=-0,04266644, Z=0,5681359
+Posicao do objeto Real no Unity: X=-0,1685055, Y=1,593647, Z=4,000721
+Posicao do objeto Virtual: X=0,005257517, Y=-0,03768423, Z=0,5650465
+Posicao do objeto Real no Unity: X=-0,2052815, Y=1,613349, Z=3,999077
+Posicao do objeto Virtual: X=0,00570935, Y=-0,036403, Z=0,5702415
+Posicao do objeto Real no Unity: X=-0,2195339, Y=1,707453, Z=3,952403
+Posicao do objeto Virtual: X=0,01145041, Y=-0,04614609, Z=0,5703391
+Posicao do objeto Real no Unity: X=-0,1894243, Y=1,602602, Z=3,98772
+Posicao do objeto Virtual: X=0,01169726, Y=-0,04472107, Z=0,5657219
+Posicao do objeto Real no Unity: X=-0,2389123, Y=1,733147, Z=3,941712
+Posicao do objeto Virtual: X=0,01105008, Y=-0,04829001, Z=0,5728776
+Posicao do objeto Real no Unity: X=-0,2745617, Y=1,743208, Z=3,930076
+Posicao do objeto Virtual: X=0,007901937, Y=-0,05371606, Z=0,5746303
+Posicao do objeto Real no Unity: X=-0,2849896, Y=1,730902, Z=3,923664
+Posicao do objeto Virtual: X=0,004420221, Y=-0,05832347, Z=0,5716162
+Posicao do objeto Real no Unity: X=-0,2351717, Y=1,602811, Z=3,978658
+Posicao do objeto Virtual: X=0,008594185, Y=-0,05443174, Z=0,5693166
+Posicao do objeto Real no Unity: X=-0,4165582, Y=1,667928, Z=3,935923
+Posicao do objeto Virtual: X=-0,006231844, Y=-0,06595957, Z=0,5824561
+Posicao do objeto Real no Unity: X=-0,5150505, Y=1,793114, Z=3,883866
+Posicao do objeto Virtual: X=-0,01567584, Y=-0,07462904, Z=0,5971366
